@@ -1,0 +1,97 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.1428115,
+                    51.5125168
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "patisserie",
+                "date": "2019",
+                "constellation": "Menet Kufu, Egypt",
+                "historical": "2609 BC",
+                "info": "24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel
+Opendime hardware key attached to the reverse 
+signed and dated ‘R. ALICE 2019’ verso
+128.5 cm (50.59 in) diameter",
+"collection": "Private Collection, Robert Alice",
+                "block": "506134",
+				"codebase": "322048",
+				"wallet": "1DzNMajXnhucX7CJ5Q7rwSLty8joQX6cqf"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-2.579623,
+                    51.452251
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "patisserie",
+                "date": "2019",
+                "constellation": "Menet Kufu, Egypt",
+                "historical": "2609 BC",
+                "info": "24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel
+Opendime hardware key attached to the reverse 
+signed and dated ‘R. ALICE 2019’ verso
+128.5 cm (50.59 in) diameter",
+"collection": "Private Collection, Robert Alice",
+                "block": "506134",
+				"codebase": "322048",
+				"wallet": "1DzNMajXnhucX7CJ5Q7rwSLty8joQX6cqf"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.273459,
+                    52.638072
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "patisserie",
+                "date": "2019",
+                "constellation": "Menet Kufu, Egypt",
+                "historical": "2609 BC",
+                "info": "24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel
+Opendime hardware key attached to the reverse 
+signed and dated ‘R. ALICE 2019’ verso
+128.5 cm (50.59 in) diameter",
+"collection": "Private Collection, Robert Alice",
+                "block": "506134",
+				"codebase": "322048",
+				"wallet": "1DzNMajXnhucX7CJ5Q7rwSLty8joQX6cqf"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1.9912838,
+                    50.8000418
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "patisserie",
+                "date": "2019",
+                "constellation": "Menet Kufu, Egypt",
+                "historical": "2609 BC",
+                "info": "24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel
+Opendime hardware key attached to the reverse 
+signed and dated ‘R. ALICE 2019’ verso
+128.5 cm (50.59 in) diameter",
+"collection": "Private Collection, Robert Alice",
+                "block": "506134",
+				"codebase": "322048",
+				"wallet": "1DzNMajXnhucX7CJ5Q7rwSLty8joQX6cqf"
+            }
+        }
+    ]
+}
