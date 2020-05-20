@@ -1,0 +1,100 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "geometry": {
+                "type": "Point",
+                "coordinates": [27.933188,
+                    30.881812
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Block 0 (27.933188° N, 30.881812° E)",
+				"url": "",
+                "date": "2019",
+                "constellation": "Menet Kufu, Egypt",
+                "historical": "2609 BC",
+                "info": "24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel
+Opendime hardware key attached to the reverse 
+signed and dated ‘R. ALICE 2019’ verso
+128.5 cm (50.59 in) diameter",
+ 			   "notes": "",
+                "collection": "Private Collection, Robert Alice",
+                "block": "506134",
+				"codebase": "1",
+				"wallet": "1DzNMajXnhucX7CJ5Q7rwSLty8joQX6cqf",
+				"type": "current"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-2.579623,
+                    51.452251
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "BLOCK 0  (24.9472° N, 118.5979° E)",
+                "date": "2016",
+                "constellation": "Menet Kufu, Egypt",
+                "historical": "2609 BC",
+               "info": "",
+			   "notes": "",
+               "collection": "Private Collection, Robert Alice",
+                "block": "506134",
+				"codebase": "322048",
+				"wallet": "1DzNMajXnhucX7CJ5Q7rwSLty8joQX6cqf",
+				"type": "historical"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.273459,
+                    52.638072
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "BLOCK 0  (24.9472° N, 118.5979° E)",
+				"url": "",
+				"location": "Chiba City, Japan",
+                "date": "2014",
+                "constellation": "Menet Kufu, Egypt",
+                "historical": "2609 BC",
+               "info": "",
+			   "notes": "",
+               "collection": "Private Collection, Robert Alice",
+                "block": "506134",
+				"codebase": "322048",
+				"wallet": "1DzNMajXnhucX7CJ5Q7rwSLty8joQX6cqf",
+				"type": "current"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1.9912838,
+                    50.8000418
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "BLOCK 0  (24.9472° N, 118.5979° E)",
+				"location": "Chiba City, Japan",
+                "date": "2013",
+                "constellation": "Menet Kufu, Egypt",
+                "historical": "2609 BC",
+                "info": "",
+ 			   "notes": "",
+                "collection": "Private Collection, Robert Alice",
+                "block": "506134",
+				"codebase": "322048",
+				"wallet": "1DzNMajXnhucX7CJ5Q7rwSLty8joQX6cqf",
+				"type": "current"
+            }
+        }
+    ]
+}
