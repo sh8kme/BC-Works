@@ -1,0 +1,30 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [118.5979,
+                    24.956045
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Block 1 (24.9472° N, 118.5979° E)",
+				"url": "",
+                "date": "2019",
+                "constellation": "Mount Qingyuan, China",
+                "historical": "601 BC",
+                "info": "24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the reverse signed and dated ‘R. ALICE 2019’ verso 128.5 cm (50.59 in) diameter",
+ 			   "notes": "",
+                "collection": "Private Collection, Paris",
+				"block": "507069",
+				"codebase": "322049 644096",
+				"wallet": "19WkhU1NCHKDinz7ypb3agpCEo4FLYG5Bu",
+				"type": "current",
+				"title2": "Block 4 (24.9472° N, 118.5979° E)",
+				"collection2": "Private Collection, Shaun"
+            }
+        }
+    ]
+}
