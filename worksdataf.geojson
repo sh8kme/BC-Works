@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.881812,
+                    27.933188
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Block 0 (27.933188° N, 30.881812° E)",
+				"url": "https://ucarecdn.com/15743580-1a50-4796-aa31-631656c131eb/Rectangle233.png",
+                "date": "2019",
+                "constellation": "Menet Kufu, Egypt",
+                "historical": "2609 BC",
+				"timeline": "2609 BC",
+                "info": "24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+ 			   "notes": "",
+                "collection": "Private Collection, Robert Alice",
+                "block": "506134",
+				"codebase": "1",
+				"wallet": "1DzNMajXnhucX7CJ5Q7rwSLty8joQX6cqf",
+				"range": "1"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [118.5979,
+                    24.956045
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Block 1 (24.9472° N, 118.5979° E)",
+				"url": "https://ucarecdn.com/15743580-1a50-4796-aa31-631656c131eb/Rectangle233.png",
+                "date": "2019",
+                "constellation": "Mount Qingyuan, China",
+                "historical": "601 BC",
+				"timeline": "601 BC",
+                "info": "24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the reverse signed and dated ‘R. ALICE 2019’ verso 128.5 cm (50.59 in) diameter",
+ 			   "notes": "",
+                "collection": "Private Collection, Paris",
+                "block": "507069",
+				"codebase": "322049 644096",
+				"wallet": "19WkhU1NCHKDinz7ypb3agpCEo4FLYG5Bu",
+				"range": "1"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.045444,
+                    38.572278
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Block 2 (38.572278° N, 28.045444° E)",
+				"url": "https://ucarecdn.com/15743580-1a50-4796-aa31-631656c131eb/Rectangle233.png",
+                "date": "2019",
+                "constellation": "Lake Marmara, Turkey ",
+                "historical": "601 BC",
+				"timeline": "560 BC",
+                "info": "24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the reverse signed and dated ‘R. ALICE 2019’ verso 128.5 cm (50.59 in) diameter",
+ 			   "notes": "",
+                "collection": "Private Collection, Paris",
+                "block": "511740",
+				"codebase": "644097 966144",
+				"wallet": "1CDrH1XncazMvW2A46dGF9LiLTr2yBhTU2",
+				"range": "1"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [23.3078,
+                    35.8897
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Block 3 (35.8897° N, 23.3078° E)",
+				"url": "https://ucarecdn.com/15743580-1a50-4796-aa31-631656c131eb/Rectangle233.png",
+                "date": "2019",
+                "constellation": "Antikythera, Greece",
+                "historical": "150-100 BC",
+				"timeline": "150-100 BC",
+                "info": "24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the reverse signed and dated ‘R. ALICE 2019’ verso 128.5 cm (50.59 in) diameter",
+ 			   "notes": "",
+                "collection": "Private Collection, London ",
+                "block": "514577",
+				"codebase": "966145 1288192",
+				"wallet": "1QFYwTqdT422pghY2mVHnFsBEUwhmczoMC",
+				"range": "1"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.486246,
+                    41.891943
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Block 4 (41.891943° N, 12.486246° E)",
+				"url": "https://ucarecdn.com/15743580-1a50-4796-aa31-631656c131eb/Rectangle233.png",
+                "date": "2019",
+                "constellation": "Rome, Italy",
+                "historical": "44 BC",
+				"timeline": "44 BC",
+                "info": "24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the reverse signed and dated ‘R. ALICE 2019’ verso 128.5 cm (50.59 in) diameter",
+ 			   "notes": "",
+                "collection": "Private Collection, San Francisco",
+                "block": "521452",
+				"codebase": "1288193 1610240",
+				"wallet": "1AP2Hf5Cns6BG9QfBch5AR56rjdNrG4wUo",
+				"type": "1"
+            }
+        }
+    ]
+}
