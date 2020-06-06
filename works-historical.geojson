@@ -1,0 +1,925 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.881812,27.933188 ]
+    },
+    "properties": {
+    "Title":"BLOCK 0 (27.933188Â° N, 30.881812Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"Menet Kufu, Egypt",
+    "Time Line Date":"2609 BC",
+    "Historical Date":"2609 BC",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"Private Collection, Robert Alice",
+    "Notes":"",
+    "Block Height":"506134",
+    "CodeBase Section START":1,
+    "CodeBase Section  END":322048,
+    "Wallet Addresses":"1DzNMajXnhucX7CJ5Q7rwSLty8joQX6cqf",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.5979,24.9472 ]
+    },
+    "properties": {
+    "Title":"BLOCK 1 (24.9472Â° N, 118.5979Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"Mount Qingyuan, China",
+    "Time Line Date":"601 BC",
+    "Historical Date":"601 BC",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"Private Collection, Paris",
+    "Notes":"",
+    "Block Height":"507069",
+    "CodeBase Section START":322049,
+    "CodeBase Section  END":644096,
+    "Wallet Addresses":"19WkhU1NCHKDinz7ypb3agpCEo4FLYG5Bu",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.045444,38.572278 ]
+    },
+    "properties": {
+    "Title":"BLOCK 2 (38.572278Â° N, 28.045444Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"Lake Marmara, Turkey ",
+    "Time Line Date":"560 BC",
+    "Historical Date":"560 BC",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"Private Collection, London",
+    "Notes":"",
+    "Block Height":"511740",
+    "CodeBase Section START":644097,
+    "CodeBase Section  END":966144,
+    "Wallet Addresses":"1CDrH1XncazMvW2A46dGF9LiLTr2yBhTU2",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.3078,35.8897 ]
+    },
+    "properties": {
+    "Title":"BLOCK 3 (35.8897Â° N, 23.3078Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"Antikythera, Greece",
+    "Time Line Date":"150-100 BC",
+    "Historical Date":"150-100 BC",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"Private Collection, London",
+    "Notes":"",
+    "Block Height":"514577",
+    "CodeBase Section START":966145,
+    "CodeBase Section  END":1288192,
+    "Wallet Addresses":"1QFYwTqdT422pghY2mVHnFsBEUwhmczoMC",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.486246,41.891943 ]
+    },
+    "properties": {
+    "Title":"BLOCK 4 (41.891943Â° N, 12.486246Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"Rome, Italy",
+    "Time Line Date":"44 BC",
+    "Historical Date":"44 BC",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"Private Collection, Changpeng Zhao.",
+    "Notes":"",
+    "Block Height":"521452",
+    "CodeBase Section START":1288193,
+    "CodeBase Section  END":1610240,
+    "Wallet Addresses":"1AP2Hf5Cns6BG9QfBch5AR56rjdNrG4wUo",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.400833,32.028611 ]
+    },
+    "properties": {
+    "Title":"BLOCK 5 (32.028611Â° N, 44.400833Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"The Great Mosque of Kufa, Iraq",
+    "Time Line Date":"801AD",
+    "Historical Date":"801AD",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"Private Collection, London",
+    "Notes":"",
+    "Block Height":"527650",
+    "CodeBase Section START":1610241,
+    "CodeBase Section  END":1932288,
+    "Wallet Addresses":"1A7dDQz6PEhRK1Z3ibJiSfuqVu5SVVDWq4",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.116667,9.533333 ]
+    },
+    "properties": {
+    "Title":"BLOCK 6 (9.533333Â° N, 138.116667Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"Yap, Caroline Islands ",
+    "Time Line Date":"1000AD",
+    "Historical Date":"1000 - 1400",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"Private Collection, Seoul ",
+    "Notes":"",
+    "Block Height":"530256",
+    "CodeBase Section START":1932289,
+    "CodeBase Section  END":2254336,
+    "Wallet Addresses":"1RDhvdoAFfmhNLst7TNpjDMCjVeqgHmNU",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.292813,43.804626 ]
+    },
+    "properties": {
+    "Title":"BLOCK 7 (43.804626Â° N, 11.292813Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"Villa Medici, Fiesole, Italy ",
+    "Time Line Date":"1397",
+    "Historical Date":"1397 - 1494",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"Private Collection, United Kingdom",
+    "Notes":"",
+    "Block Height":"532284",
+    "CodeBase Section START":2254337,
+    "CodeBase Section  END":2576384,
+    "Wallet Addresses":"13HQMkVRsD1FhhvpEXtp1QVe4PQqXdkeaE",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.272614,50.000323 ]
+    },
+    "properties": {
+    "Title":"BLOCK 8 (50.000323Â° N, 8.272614Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"Mainz, Germany ",
+    "Time Line Date":"â€Žc. 1440",
+    "Historical Date":"â€Žc. 1440",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"Private Collection, Jehan Chu",
+    "Notes":"",
+    "Block Height":"535304",
+    "CodeBase Section START":2576385,
+    "CodeBase Section  END":2898432,
+    "Wallet Addresses":"1CtY5h9mwWowiGD1QtncWsEPkDcLmwYZvz",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.29,46.3083 ]
+    },
+    "properties": {
+    "Title":"BLOCK 9 (46.3083Â° N, 3.2900Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"Saint-PourÃ§ain-sur-Sioule, France ",
+    "Time Line Date":"1523",
+    "Historical Date":"1523",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"Private Collection, Singapore",
+    "Notes":"",
+    "Block Height":"537228",
+    "CodeBase Section START":2898433,
+    "CodeBase Section  END":3220480,
+    "Wallet Addresses":"1C9YWtSLa6f7CM2XoMt6MMUkTCsTrqwKq",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4362,52.5243 ]
+    },
+    "properties": {
+    "Title":"BLOCK 10 (52.5243Â° N, -0.4362Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"Fotheringhay Castle, Northamptonshire ",
+    "Time Line Date":"1586",
+    "Historical Date":"1586",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"Private Collection, United Kingdom",
+    "Notes":"",
+    "Block Height":"539373",
+    "CodeBase Section START":3220481,
+    "CodeBase Section  END":3542528,
+    "Wallet Addresses":"1LpZtoCgBmtB9NWFwBsE9i7hfVA2QwHcH8",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.763,51.361 ]
+    },
+    "properties": {
+    "Title":"BLOCK 11 (51.361Â° N, -2.763Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"Wrington, England ",
+    "Time Line Date":"1632",
+    "Historical Date":"1632",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"Private Collection, Gibraltar",
+    "Notes":"",
+    "Block Height":"540573",
+    "CodeBase Section START":3542529,
+    "CodeBase Section  END":3864576,
+    "Wallet Addresses":"1H9FYkgLYmy5sqWJKCchkVydMVELwzeWkG",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.378611,51.340278 ]
+    },
+    "properties": {
+    "Title":"BLOCK 12 (51.340278Â° N, 12.378611Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"St Nicholas Church, Leipzip ",
+    "Time Line Date":"1646",
+    "Historical Date":"1646",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"Private Collection, New York",
+    "Notes":"",
+    "Block Height":"541583",
+    "CodeBase Section START":3864577,
+    "CodeBase Section  END":4186624,
+    "Wallet Addresses":"1HXNdFGzJ9etaiGVn5NHW1MW78hzKGDAJC",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.061944,37.056944 ]
+    },
+    "properties": {
+    "Title":"BLOCK 13 (37.056944Â° N, 10.061944Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"Utica, Tunisia ",
+    "Time Line Date":"1723",
+    "Historical Date":"1723-26",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"Private Collection, Toyko",
+    "Notes":"",
+    "Block Height":"542108",
+    "CodeBase Section START":4186625,
+    "CodeBase Section  END":4508672,
+    "Wallet Addresses":"1FEYARWrd15YhN79tRiSuRqx27pjnQHvdh",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.120472,48.804722 ]
+    },
+    "properties": {
+    "Title":"BLOCK 14 (48.804722Â° N, 2.120472Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"Palace of Versailles, France",
+    "Time Line Date":"1735",
+    "Historical Date":"1735",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"Private Collection, Hong Kong ",
+    "Notes":"",
+    "Block Height":"542326",
+    "CodeBase Section START":4508673,
+    "CodeBase Section  END":4830720,
+    "Wallet Addresses":"1MaeyPrhjmvGX2sgZfbrRuvXDfmRuWjozE",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.417778,38.012383 ]
+    },
+    "properties": {
+    "Title":"BLOCK 15 (38.012383Â° N, -78.417778Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"Shadwell, Virginia",
+    "Time Line Date":"1743",
+    "Historical Date":"1743",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"Private Collection, Matthew Roszak",
+    "Notes":"",
+    "Block Height":"546841",
+    "CodeBase Section START":4830721,
+    "CodeBase Section  END":5152768,
+    "Wallet Addresses":"1K81rujRfxvCsTMqZKWoSGs44y9CbuZUeR",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.629639,17.141167 ]
+    },
+    "properties": {
+    "Title":"BLOCK 16 (17.141167Â° N, -62.629639Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"Charlestown, St Kitts & Nevis",
+    "Time Line Date":"1787",
+    "Historical Date":"1787-1788",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"Private Collection, Switzerland",
+    "Notes":"",
+    "Block Height":"547126",
+    "CodeBase Section START":5152769,
+    "CodeBase Section  END":5474816,
+    "Wallet Addresses":"1PBP2CPZ86yeGrqVGz1W8ZuBmBz6QLrfnP",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.51624,39.100784 ]
+    },
+    "properties": {
+    "Title":"BLOCK 17 (39.100784Â° N, -84.516240Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"Cinncinnati Time Store, Cinncinnati ",
+    "Time Line Date":"1827",
+    "Historical Date":"1827",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"Private Collection, United Kingdom ",
+    "Notes":"",
+    "Block Height":"550351",
+    "CodeBase Section START":5474817,
+    "CodeBase Section  END":5796864,
+    "Wallet Addresses":"15pCvqLPs5oe9VyR6vQtk9LRJyFX3sFCfP",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.154592,51.520008 ]
+    },
+    "properties": {
+    "Title":"BLOCK 18 (51.520008Â° N, -0.154592Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"1a Dorset Street, London ",
+    "Time Line Date":"1791",
+    "Historical Date":"1791",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"Private Collection, San Francisco ",
+    "Notes":"",
+    "Block Height":"552449",
+    "CodeBase Section START":5796865,
+    "CodeBase Section  END":6118912,
+    "Wallet Addresses":"134pMmMn7fuKXcxCQqLxJTFfDVrSDZd2za",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4734,51.2978 ]
+    },
+    "properties": {
+    "Title":"BLOCK 19 (51.2978Â° N, -0.4734Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"Church of St Mary Magdalene, Hucknall",
+    "Time Line Date":"1835",
+    "Historical Date":"1835",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"Private Collection, Chicago",
+    "Notes":"",
+    "Block Height":"558102",
+    "CodeBase Section START":6118913,
+    "CodeBase Section  END":6440960,
+    "Wallet Addresses":"1GX3BF9xUZGSvR5afYUQyQ1kM8KikmbMqa",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.892292,38.803472 ]
+    },
+    "properties": {
+    "Title":"BLOCK 20 (38.803472Â° N, -120.892292Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"Sutters Mill, California ",
+    "Time Line Date":"1848",
+    "Historical Date":"1848",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"Private Collection, Beijing ",
+    "Notes":"",
+    "Block Height":"564084",
+    "CodeBase Section START":6440961,
+    "CodeBase Section  END":6763008,
+    "Wallet Addresses":"1JhfmdAypFk5MScCfFbrYcwt8WAQKBNh3E",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.26189,42.36433 ]
+    },
+    "properties": {
+    "Title":"BLOCK 21 (42.36433Â° N, -71.26189Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"Brandeis University, Massachusetts",
+    "Time Line Date":"1890",
+    "Historical Date":"1890",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"",
+    "Notes":"",
+    "Block Height":"566735",
+    "CodeBase Section START":6763009,
+    "CodeBase Section  END":7085056,
+    "Wallet Addresses":"1KQABBun1iixbMcFnQM5d7vrxbcKY3YqqT",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.154904,42.435948 ]
+    },
+    "properties": {
+    "Title":"BLOCK 22 (42.435948Â° N, -71.154904Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"Entropy House, Boston ",
+    "Time Line Date":"1937",
+    "Historical Date":"1937",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"",
+    "Notes":"",
+    "Block Height":"568006",
+    "CodeBase Section START":7085057,
+    "CodeBase Section  END":7407104,
+    "Wallet Addresses":"1Gt939gAz9BoSmKEdgu8rEMG4wDfBsSoJP",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.741969,51.997395 ]
+    },
+    "properties": {
+    "Title":"BLOCK 23 (51.997395Â° N, -0.741969Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"Hut 8, Bletchley Park",
+    "Time Line Date":"1940",
+    "Historical Date":"1940",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"",
+    "Notes":"",
+    "Block Height":"571345",
+    "CodeBase Section START":7407105,
+    "CodeBase Section  END":7729152,
+    "Wallet Addresses":"1PRAhBLgbDNKKcj9H4rSfgCDKqrNiTTMam",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 155.36895,-6.386083 ]
+    },
+    "properties": {
+    "Title":"BLOCK 24 (-6.386083Â° N, 155.36895Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"Bougainville Island, Papua New Guinea",
+    "Time Line Date":"1943",
+    "Historical Date":"1943",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"",
+    "Notes":"",
+    "Block Height":"573011",
+    "CodeBase Section START":7729153,
+    "CodeBase Section  END":8051200,
+    "Wallet Addresses":"16q87nsL9M8DaQ8rHqEYP1e6kA3wgNB1Zq",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.207373,53.328562 ]
+    },
+    "properties": {
+    "Title":"BLOCK 25 (53.328562Â° N, -2.207373Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"43 Adlington Rd, Wilmslow ",
+    "Time Line Date":"1954",
+    "Historical Date":"1954",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"",
+    "Notes":"",
+    "Block Height":"573289",
+    "CodeBase Section START":8051201,
+    "CodeBase Section  END":8373248,
+    "Wallet Addresses":"1UXzyEbwX6PiLRLgWyxLHjyHQtP7CW8M9",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.106361,35.607278 ]
+    },
+    "properties": {
+    "Title":"BLOCK 26 (35.607278Â° N, 140.106361Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"Chiba City, Japan ",
+    "Time Line Date":"1984",
+    "Historical Date":"1984",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"",
+    "Notes":"",
+    "Block Height":"573934",
+    "CodeBase Section START":8373249,
+    "CodeBase Section  END":8695296,
+    "Wallet Addresses":"1Q9KxiSg5fgcijAGSGkE7YNLx8avFAMwDC",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.002128,37.410712 ]
+    },
+    "properties": {
+    "Title":"BLOCK 27 (37.410712Â° N, -122.002128Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"1325 Chesapeake Ter Sunnyvale, CA 94089",
+    "Time Line Date":"1988",
+    "Historical Date":"1988",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"",
+    "Notes":"",
+    "Block Height":"575037",
+    "CodeBase Section START":8695297,
+    "CodeBase Section  END":9017344,
+    "Wallet Addresses":"13sN7sv2DYVVxEm3RqUNAPbhFmcH36qcwh",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283514,40.0296862 ]
+    },
+    "properties": {
+    "Title":"BLOCK 28 (40.0296862Â° N, -105.2835140Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"Boulder, Colorado ",
+    "Time Line Date":"1991",
+    "Historical Date":"1991",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"",
+    "Notes":"",
+    "Block Height":"575989",
+    "CodeBase Section START":9017345,
+    "CodeBase Section  END":9339392,
+    "Wallet Addresses":"1FKdLFhRxpHqdyqSf6SxfvvMh3i2PJ9Qek",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.533444,29.549955 ]
+    },
+    "properties": {
+    "Title":"BLOCK 29 (29.549955Â° N, -98.533444Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"Kruislaan 419 1098 VA Amsterdam",
+    "Time Line Date":"1997",
+    "Historical Date":"1997",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"",
+    "Notes":"",
+    "Block Height":"576481",
+    "CodeBase Section START":9339393,
+    "CodeBase Section  END":9661440,
+    "Wallet Addresses":"1PMyBMJyAsy3etHcwQdf1SwURmNzjAkkD1",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.533741,50.733155 ]
+    },
+    "properties": {
+    "Title":"BLOCK 30 (50.733155Â° N, -3.533741Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"Postgraduate Lab, Department of Computer Science, Exeter",
+    "Time Line Date":"1997",
+    "Historical Date":"1997",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"",
+    "Notes":"",
+    "Block Height":"576815",
+    "CodeBase Section START":9661441,
+    "CodeBase Section  END":9983488,
+    "Wallet Addresses":"1PnRbNifXKk4vkD723hCPg4zAFbAHE9szW",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Title":"BLOCK 31",
+    "Production Date":2019,
+    "Constellation Location":"Wei Dai ",
+    "Time Line Date":"1998",
+    "Historical Date":"1998",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"",
+    "Notes":"",
+    "Block Height":"577238",
+    "CodeBase Section START":9983489,
+    "CodeBase Section  END":10305536,
+    "Wallet Addresses":"1FxjqLiS371N2hhsVerwGjfy1Ko21Hh456",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Title":"BLOCK 32 ",
+    "Production Date":2019,
+    "Constellation Location":"Nick Szabo ",
+    "Time Line Date":"1998",
+    "Historical Date":"1998",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"",
+    "Notes":"",
+    "Block Height":"578110",
+    "CodeBase Section START":10305537,
+    "CodeBase Section  END":10627584,
+    "Wallet Addresses":"15cAGZ2ogmeJM8Ue3wV4H1E16Jbf99H1Pt",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.771335,39.10894 ]
+    },
+    "properties": {
+    "Title":"BLOCK 33 (39.108940Â° N, -76.771335Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"NSA, Fort Meade",
+    "Time Line Date":"2001",
+    "Historical Date":"2001",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"",
+    "Notes":"",
+    "Block Height":"578631",
+    "CodeBase Section START":10627585,
+    "CodeBase Section  END":10949632,
+    "Wallet Addresses":"12mqVSgPrZNjrvwYkpBydRNSjH4uLQsjnr",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4805,51.895167 ]
+    },
+    "properties": {
+    "Title":"BLOCK 34 (51.895167Â° N, 1.4805Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"Sealand ",
+    "Time Line Date":"2001",
+    "Historical Date":"2001",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"",
+    "Notes":"",
+    "Block Height":"579227",
+    "CodeBase Section START":10949633,
+    "CodeBase Section  END":11271680,
+    "Wallet Addresses":"12vGsTn8AyMsmsnmXRSQqXF64WQgx9uDVJ",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.124344,51.899503 ]
+    },
+    "properties": {
+    "Title":"BLOCK 35 (51.899503Â° N, -2.124344Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"GCHQ, Cheltenham",
+    "Time Line Date":"2003",
+    "Historical Date":"2003",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"",
+    "Notes":"",
+    "Block Height":"579753",
+    "CodeBase Section START":11271681,
+    "CodeBase Section  END":11593728,
+    "Wallet Addresses":"13JTnYknixESdKEAiKskF9C5twKtdJe3kK",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.983163,40.760677 ]
+    },
+    "properties": {
+    "Title":"BLOCK 36 (40.760677Â° N, -73.983163Â° E)",
+    "Production Date":2019,
+    "Constellation Location":"745 Seventh Avenue, Manhattan ",
+    "Time Line Date":"2008",
+    "Historical Date":"2008",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"",
+    "Notes":"",
+    "Block Height":"582661",
+    "CodeBase Section START":11593729,
+    "CodeBase Section  END":11915776,
+    "Wallet Addresses":"1PJczbZPRsADmhX4B6WrsTpmoLMDHj6LBx",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.064006,51.50886 ]
+    },
+    "properties": {
+    "Title":"BLOCK 37 (51.508860Â° N, -0.064006Â° E) ",
+    "Production Date":2019,
+    "Constellation Location":"The Times House, Pennington Street ",
+    "Time Line Date":"2009",
+    "Historical Date":"2009",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"",
+    "Notes":"",
+    "Block Height":"591205",
+    "CodeBase Section START":11915777,
+    "CodeBase Section  END":12237824,
+    "Wallet Addresses":"15mz5c2qzrqQWDfHFMnkL4PgGWP1pe5kNv",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.751585,34.440283 ]
+    },
+    "properties": {
+    "Title":"BLOCK 38 (34.440283Â° N, -119.751585Â° E) ",
+    "Production Date":2019,
+    "Constellation Location":"Hal Finney House",
+    "Time Line Date":"2009",
+    "Historical Date":"2009",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"",
+    "Notes":"",
+    "Block Height":"596,813",
+    "CodeBase Section START":12237825,
+    "CodeBase Section  END":12559872,
+    "Wallet Addresses":"14BftiLyL1aWSq5EcfSUe1ZXq7bhJr8NgE",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Title":"BLOCK 39",
+    "Production Date":2019,
+    "Constellation Location":"To be enveiled in 2021. ",
+    "Time Line Date":"2009",
+    "Historical Date":"2009",
+    "Data":"24k gold leaf, suspended pigment, graphite and aluminium paint and canvas laid down on panel Opendime hardware key attached to the  reverse signed and dated 'R. ALICE 2019' verso 128.5 cm (50.59 in) diameter",
+    "Collection":"",
+    "Notes":"",
+    "Block Height":"597,046",
+    "CodeBase Section START":12559873,
+    "CodeBase Section  END":12881920,
+    "Wallet Addresses":"1MVUxznyzPfEnaJCNnYzow9SiUQktt8T8T",
+    "Url":"https://uploads-ssl.webflow.com/5ebec9ac8affa554befdd331/5ed93626fd9f32c0ac5f441a_work.jpg",
+    "Url2":""
+    }
+  }
+]
+}
