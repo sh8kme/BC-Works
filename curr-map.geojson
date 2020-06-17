@@ -1,0 +1,459 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1278,51.5074 ]
+    },
+    "properties": {
+    "title":"BLOCK 0 (27.933188° N, 30.881812° E)",
+    "collection":"Private Collection, Robert Alice",
+    "city":"London",
+    "title2":"BLOCK 2 (38.572278° N, 28.045444° E)",
+    "collection2" : "Private Collection, London",
+    "title3":"BLOCK 3 (35.8897° N, 23.3078° E)",
+    "collection3" : "Private Collection, London",
+    "title4":"BLOCK 5 (32.028611° N, 44.400833° E)",
+    "collection4" : "Private Collection, London",
+    "title5":"BLOCK 7 (43.804626° N, 11.292813° E)",
+    "collection5" : "Private Collection, London",
+    "title6":"BLOCK 17 (39.100784° N, -84.516240° E)",
+    "collection6" : "Private Collection, United Kingdom"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3522,48.8566 ]
+    },
+    "properties": {
+    "title":"BLOCK 1 (24.9472° N, 118.5979° E)",
+    "collection":"Private Collection, Paris",
+    "city":"Paris",
+    "title2":"",
+    "collection2" : "",
+    "title3":"",
+    "collection3" : "",
+    "title4":"",
+    "collection4" : "",
+    "title5":"",
+    "collection5" : "",
+    "title6":"",
+    "collection6" : ""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1278,51.5074 ]
+    },
+    "properties": {
+    "title":"BLOCK 0 (27.933188° N, 30.881812° E)",
+    "collection":"Private Collection, Robert Alice",
+    "city":"London",
+    "title2":"BLOCK 2 (38.572278° N, 28.045444° E)",
+    "collection2" : "Private Collection, London",
+    "title3":"BLOCK 3 (35.8897° N, 23.3078° E)",
+    "collection3" : "Private Collection, London",
+    "title4":"BLOCK 5 (32.028611° N, 44.400833° E)",
+    "collection4" : "Private Collection, London",
+    "title5":"BLOCK 7 (43.804626° N, 11.292813° E)",
+    "collection5" : "Private Collection, London",
+    "title6":"BLOCK 17 (39.100784° N, -84.516240° E)",
+    "collection6" : "Private Collection, United Kingdom"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1278,51.5074 ]
+    },
+    "properties": {
+    "title":"BLOCK 0 (27.933188° N, 30.881812° E)",
+    "collection":"Private Collection, Robert Alice",
+    "city":"London",
+    "title2":"BLOCK 2 (38.572278° N, 28.045444° E)",
+    "collection2" : "Private Collection, London",
+    "title3":"BLOCK 3 (35.8897° N, 23.3078° E)",
+    "collection3" : "Private Collection, London",
+    "title4":"BLOCK 5 (32.028611° N, 44.400833° E)",
+    "collection4" : "Private Collection, London",
+    "title5":"BLOCK 7 (43.804626° N, 11.292813° E)",
+    "collection5" : "Private Collection, London",
+    "title6":"BLOCK 17 (39.100784° N, -84.516240° E)",
+    "collection6" : "Private Collection, United Kingdom"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8198,1.3521 ]
+    },
+    "properties": {
+    "title":"BLOCK 4 (41.891943° N, 12.486246° E)",
+    "collection":"Private Collection, Changpeng Zhao.",
+    "city":"Singapore",
+    "title2":"BLOCK 9 (46.3083° N, 3.2900° E)",
+    "collection2" : "Private Collection, Singapore",
+    "title3":"",
+    "collection3" : "",
+    "title4":"",
+    "collection4" : "",
+    "title5":"",
+    "collection5" : "",
+    "title6":"",
+    "collection6" : ""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1278,51.5074 ]
+    },
+    "properties": {
+    "title":"BLOCK 0 (27.933188° N, 30.881812° E)",
+    "collection":"Private Collection, Robert Alice",
+    "city":"London",
+    "title2":"BLOCK 2 (38.572278° N, 28.045444° E)",
+    "collection2" : "Private Collection, London",
+    "title3":"BLOCK 3 (35.8897° N, 23.3078° E)",
+    "collection3" : "Private Collection, London",
+    "title4":"BLOCK 5 (32.028611° N, 44.400833° E)",
+    "collection4" : "Private Collection, London",
+    "title5":"BLOCK 7 (43.804626° N, 11.292813° E)",
+    "collection5" : "Private Collection, London",
+    "title6":"BLOCK 17 (39.100784° N, -84.516240° E)",
+    "collection6" : "Private Collection, United Kingdom"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.978,37.5665 ]
+    },
+    "properties": {
+    "title":"BLOCK 6 (9.533333° N, 138.116667° E)",
+    "collection":"Private Collection, Seoul",
+    "city":"Seoul",
+    "title2":"",
+    "collection2" : "",
+    "title3":"",
+    "collection3" : "",
+    "title4":"",
+    "collection4" : "",
+    "title5":"",
+    "collection5" : "",
+    "title6":"",
+    "collection6" : ""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1278,51.5074 ]
+    },
+    "properties": {
+    "title":"BLOCK 0 (27.933188° N, 30.881812° E)",
+    "collection":"Private Collection, Robert Alice",
+    "city":"London",
+    "title2":"BLOCK 2 (38.572278° N, 28.045444° E)",
+    "collection2" : "Private Collection, London",
+    "title3":"BLOCK 3 (35.8897° N, 23.3078° E)",
+    "collection3" : "Private Collection, London",
+    "title4":"BLOCK 5 (32.028611° N, 44.400833° E)",
+    "collection4" : "Private Collection, London",
+    "title5":"BLOCK 7 (43.804626° N, 11.292813° E)",
+    "collection5" : "Private Collection, London",
+    "title6":"BLOCK 17 (39.100784° N, -84.516240° E)",
+    "collection6" : "Private Collection, United Kingdom"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1694,22.3193 ]
+    },
+    "properties": {
+    "title":"BLOCK 8 (50.000323° N, 8.272614° E)",
+    "collection":"Private Collection, Jehan Chu",
+    "city":"",
+    "title2":"",
+    "collection2" : "",
+    "title3":"",
+    "collection3" : "",
+    "title4":"",
+    "collection4" : "",
+    "title5":"",
+    "collection5" : "",
+    "title6":"",
+    "collection6" : ""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8198,1.3521 ]
+    },
+    "properties": {
+    "title":"BLOCK 4 (41.891943° N, 12.486246° E)",
+    "collection":"Private Collection, Changpeng Zhao.",
+    "city":"Singapore",
+    "title2":"BLOCK 9 (46.3083° N, 3.2900° E)",
+    "collection2" : "Private Collection, Singapore",
+    "title3":"",
+    "collection3" : "",
+    "title4":"",
+    "collection4" : "",
+    "title5":"",
+    "collection5" : "",
+    "title6":"",
+    "collection6" : ""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1278,51.5074 ]
+    },
+    "properties": {
+    "title":"BLOCK 10 (52.5243° N, -0.4362° E)",
+    "collection":"Private Collection, United Kingdom",
+    "title2":"",
+    "collection2" : "",
+    "title3":"",
+    "collection3" : "",
+    "title4":"",
+    "collection4" : "",
+    "title5":"",
+    "collection5" : "",
+    "title6":"",
+    "collection6" : ""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.3536,36.1408 ]
+    },
+    "properties": {
+    "title":"BLOCK 11 (51.361° N, -2.763° E)",
+    "collection":"Private Collection, Gibraltar",
+    "title2":"",
+    "collection2" : "",
+    "title3":"",
+    "collection3" : "",
+    "title4":"",
+    "collection4" : "",
+    "title5":"",
+    "collection5" : "",
+    "title6":"",
+    "collection6" : ""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0060,40.7128 ]
+    },
+    "properties": {
+    "title":"BLOCK 12 (51.340278° N, 12.378611° E)",
+    "collection":"Private Collection, New York",
+    "title2":"",
+    "collection2" : "",
+    "title3":"",
+    "collection3" : "",
+    "title4":"",
+    "collection4" : "",
+    "title5":"",
+    "collection5" : "",
+    "title6":"",
+    "collection6" : ""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6503,35.6762 ]
+    },
+    "properties": {
+    "title":"BLOCK 13 (37.056944° N, 10.061944° E)",
+    "collection":"Private Collection, Toyko",
+    "title2":"",
+    "collection2" : "",
+    "title3":"",
+    "collection3" : "",
+    "title4":"",
+    "collection4" : "",
+    "title5":"",
+    "collection5" : "",
+    "title6":"",
+    "collection6" : ""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1694,22.3193 ]
+    },
+    "properties": {
+    "title":"BLOCK 14 (48.804722° N, 2.120472° E)",
+    "collection":"Private Collection, Hong Kong",
+    "title2":"",
+    "collection2" : "",
+    "title3":"",
+    "collection3" : "",
+    "title4":"",
+    "collection4" : "",
+    "title5":"",
+    "collection5" : "",
+    "title6":"",
+    "collection6" : ""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.6298,41.8781 ]
+    },
+    "properties": {
+    "title":"BLOCK 15 (38.012383° N, -78.417778° E)",
+    "collection":"Private Collection, Matthew Roszak",
+    "city":"Chicago",
+    "title2":"BLOCK 19 (51.2978° N, -0.4734° E)",
+    "collection2" : "Private Collection, Chicago",
+    "title3":"",
+    "collection3" : "",
+    "title4":"",
+    "collection4" : "",
+    "title5":"",
+    "collection5" : "",
+    "title6":"",
+    "collection6" : ""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2275,46.8182 ]
+    },
+    "properties": {
+    "title":"BLOCK 16 (17.141167° N, -62.629639° E)",
+    "collection":"Private Collection, Switzerland",
+    "title2":"",
+    "collection2" : "",
+    "title3":"",
+    "collection3" : "",
+    "title4":"",
+    "collection4" : "",
+    "title5":"",
+    "collection5" : "",
+    "title6":"",
+    "collection6" : ""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1278,51.5074 ]
+    },
+    "properties": {
+    "title":"BLOCK 0 (27.933188° N, 30.881812° E)",
+    "collection":"Private Collection, Robert Alice",
+    "city":"London",
+    "title2":"BLOCK 2 (38.572278° N, 28.045444° E)",
+    "collection2" : "Private Collection, London",
+    "title3":"BLOCK 3 (35.8897° N, 23.3078° E)",
+    "collection3" : "Private Collection, London",
+    "title4":"BLOCK 5 (32.028611° N, 44.400833° E)",
+    "collection4" : "Private Collection, London",
+    "title5":"BLOCK 7 (43.804626° N, 11.292813° E)",
+    "collection5" : "Private Collection, London",
+    "title6":"BLOCK 17 (39.100784° N, -84.516240° E)",
+    "collection6" : "Private Collection, United Kingdom"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.4194,37.7749 ]
+    },
+    "properties": {
+    "title":"BLOCK 18 (51.520008° N, -0.154592° E)",
+    "collection":"Private Collection, San Francisco",
+    "title2":"",
+    "collection2" : "",
+    "title3":"",
+    "collection3" : "",
+    "title4":"",
+    "collection4" : "",
+    "title5":"",
+    "collection5" : "",
+    "title6":"",
+    "collection6" : ""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6298,41.8781 ]
+    },
+    "properties": {
+    "title":"BLOCK 15 (38.012383° N, -78.417778° E)",
+    "collection":"Private Collection, Matthew Roszak",
+    "city":"Chicago",
+    "title2":"BLOCK 19 (51.2978° N, -0.4734° E)",
+    "collection2" : "Private Collection, Chicago",
+    "title3":"",
+    "collection3" : "",
+    "title4":"",
+    "collection4" : "",
+    "title5":"",
+    "collection5" : "",
+    "title6":"",
+    "collection6" : ""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.4074,39.9042 ]
+    },
+    "properties": {
+    "title":"BLOCK 20 (38.803472° N, -120.892292° E)",
+    "collection":"Private Collection, Beijing",
+    "title2":"",
+    "collection2" : "",
+    "title3":"",
+    "collection3" : "",
+    "title4":"",
+    "collection4" : "",
+    "title5":"",
+    "collection5" : "",
+    "title6":"",
+    "collection6" : ""
+    }
+  }
+]
+}
