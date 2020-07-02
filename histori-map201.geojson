@@ -749,7 +749,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  { -122.305900,47.653554 }
     },
     "properties": {
     "title":"BLOCK 31",
@@ -773,7 +773,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  {-122.305900,47.653554 }
     },
     "properties": {
     "title":"BLOCK 32 ",
