@@ -202,12 +202,12 @@ AV2();
 	
 	 
 	 
-          $(".close").click(function(){
+          $(".close").click(function(e){
           	 
 	 
 	 t.flyTo({
-            center: [12.5674, 41.8719],
-            zoom: 2
+ center: e.geometry.coordinates,
+zoom: 2
         })
 	 setTimeout(function(){
 		 AV2(); 
