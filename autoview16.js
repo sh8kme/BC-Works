@@ -198,7 +198,10 @@ AV2();
  $(".view-work").click(function(){
             clearTimeout(timer);
           $(".close").click(function(){
-          	
+          	t.flyTo({
+            center: [12.5674, 41.8719],
+            zoom: 2
+        })
          AV2();
     });
     });
