@@ -1,4 +1,3 @@
-
 function AV1() {
  $('a#listing-4-undefined')[0].click();
  var timer = setTimeout(function() {
@@ -8,6 +7,10 @@ AV2();
  $(".view-work").click(function(){
             clearTimeout(timer);
           $(".close").click(function(){
+          	t.flyTo({
+            center: [12.5674, 41.8719],
+            zoom: 2
+        })
          AV2();
     });
     });
