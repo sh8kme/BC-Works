@@ -17,6 +17,7 @@ AV2();
 }
 
 function AV2() {
+	$( ".close" ).unbind();
  $('a#listing-2-undefined')[0].click();
  var timer = setTimeout(function() {
 AV3();
