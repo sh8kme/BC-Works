@@ -9,6 +9,11 @@ AV2();
             clearTimeout(timer);
           
     });
+$(".close").click(function(){
+         AV2();
+    });
+
+
 }
 
 function AV2() {
