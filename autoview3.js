@@ -1,17 +1,14 @@
 
 function AV1() {
  $('a#listing-4-undefined')[0].click();
- setTimeout(function() {
-$(".view-work").click(function(){
-    var $this = $(this);
-    if($this.data('clicked')) {
-       AV2();
-    }
-    else {
-       
-    }
-});
+ var timer = setTimeout(function() {
+AV2();
  	  }, 7000);
+
+ $(".view-work").click(function(){
+            clearTimeout(timer);
+          
+    });
 }
 
 function AV2() {
@@ -41,3 +38,13 @@ $(document).ready(function() {
 });
 
 
+
+$(document).ready(function() {
+    var timer = setTimeout(function() { $(".button").click(); }, 7000);
+    $(".button").click(function(){
+            clearTimeout(timer);
+            $(this).fadeOut('slow'); 
+                $(".leftside").animate({width:'60px'}, 500 );
+                $(".rightside").animate({width:'60px'},500 );
+    });
+});
