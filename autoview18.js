@@ -129,7 +129,7 @@ t.flyTo({
     })
 }
 
-function AV1() {
+function AV1(e) {
  $('a#listing-4-undefined')[0].click();
  var timer = setTimeout(function() {
 AV2();
