@@ -1,7 +1,16 @@
+
 function AV1() {
  $('a#listing-4-undefined')[0].click();
  setTimeout(function() {
-AV2();
+$(".view-work").click(function(){
+    var $this = $(this);
+    if($this.data('clicked')) {
+       AV2();
+    }
+    else {
+       
+    }
+});
  	  }, 7000);
 }
 
@@ -30,3 +39,5 @@ $(document).ready(function() {
        AV1();
     });
 });
+
+
