@@ -1,5 +1,6 @@
 
 
+
 function AV1() {
  $('a#listing-4-undefined')[0].click();
  var timer = setTimeout(function() {
@@ -115,7 +116,11 @@ AV8();
 function AV8() {
 	$( ".close" ).unbind();
  $('a#listing-9-undefined')[0].click();
- }
+
+  setTimeout(() => { 
+    $('.mapboxgl-popup-close-button')[0].click();
+    }, 7000);
+}
 
 
 $(document).ready(function() {
