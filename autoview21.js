@@ -201,8 +201,9 @@ AV2();
             clearTimeout(timer);
           $(".close").click(function(){
           	t.flyTo({
-center: e.features[0].geometry.coordinates
-});
+            center: [12.5674, 41.8719],
+            zoom: 2
+        })
          AV2();
     });
     });
