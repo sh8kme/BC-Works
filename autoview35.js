@@ -202,7 +202,7 @@ AV2();
 	
 	 
 	 
-          $(".close").click(function(){
+          $(".close-info-box").click(function(){
           	 
 	 
 	
@@ -215,7 +215,7 @@ AV2();
 }
 
 function AV2() {
-	$( ".close" ).unbind();
+	$( ".close-info-box" ).unbind();
  $('#marker-23-undefined')[0].click();
 	 $('.mapboxgl-popup-content').append("<p>&mdash; Text goes here adf asf asf af afs afs af af af af af  faf  &mdash;</p>");
  
@@ -226,7 +226,7 @@ AV3();
  $(".view-work").click(function(){
             clearTimeout(timer);
           
-  $(".close").click(function(){
+  $(".close-info-box").click(function(){
          AV3();
     });
     });
