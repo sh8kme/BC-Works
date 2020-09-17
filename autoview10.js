@@ -1,6 +1,4 @@
 
-
-
 function AV1() {
  $('a#listing-4-undefined')[0].click();
  var timer = setTimeout(function() {
@@ -18,6 +16,7 @@ AV2();
 function AV2() {
 	$( ".close" ).unbind();
  $('a#listing-2-undefined')[0].click();
+ $('.mapboxgl-popup-content').append('text');
  var timer = setTimeout(function() {
 AV3();
  	  }, 7000);
