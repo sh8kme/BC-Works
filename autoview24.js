@@ -203,15 +203,16 @@ AV2();
 	 
 	 
           $(".close").click(function(){
-          	 setTimeout(function(){
+          	 
 	 
 	 t.flyTo({
             center: [12.5674, 41.8719],
             zoom: 2
         })
-	 
+	 setTimeout(function(){
+		 AV2(); 
 	 }, 3000);
-         AV2().delay( 1500 );
+        
     });
     });
 }
