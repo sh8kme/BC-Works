@@ -202,16 +202,13 @@ AV2();
 	
 	 
 	 
-          $(".close").click(function(e){
+          $(".close").click(function(){
           	 
 	 
-	 t.flyTo({
- center: e.geometry.coordinates,
-zoom: 2
-        })
-	 setTimeout(function(){
+	
+	
 		 AV2(); 
-	 }, 3000);
+	
         
     });
     });
@@ -219,7 +216,11 @@ zoom: 2
 
 function AV2() {
 	$( ".close" ).unbind();
- $('a#listing-2-undefined')[0].click();
+ $('a#listing-2-undefined')[0].click(e);
+	 t.flyTo({
+ center: e.geometry.coordinates,
+zoom: 2
+        })
  $('.mapboxgl-popup-content').append("<p>&mdash; Text goes here adf asf asf af afs afs af af af af af  faf  &mdash;</p>");
  var timer = setTimeout(function() {
 AV3();
