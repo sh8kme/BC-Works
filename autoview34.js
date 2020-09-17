@@ -192,7 +192,7 @@ $("#tslshow").append('<div id="unveil" class="tblock unmarked"><a href="#"><h6>â
 setTimeout(check, 5000); 
 
 function AV1() {
- $('.marker-22-undefined')[0].click();
+ $('#marker-22-undefined')[0].click();
  var timer = setTimeout(function() {
 AV2();
  	  }, 7000);
@@ -216,7 +216,7 @@ AV2();
 
 function AV2() {
 	$( ".close" ).unbind();
- $('.marker-23-undefined')[0].click();
+ $('#marker-23-undefined')[0].click();
 	 $('.mapboxgl-popup-content').append("<p>&mdash; Text goes here adf asf asf af afs afs af af af af af  faf  &mdash;</p>");
  
  var timer = setTimeout(function() {
@@ -235,7 +235,7 @@ AV3();
 
 function AV3() {
 	$( ".close" ).unbind();
- $('.marker-24-undefined')[0].click();
+ $('#marker-24-undefined')[0].click();
  var timer = setTimeout(function() {
 AV4();
  	  }, 7000);
