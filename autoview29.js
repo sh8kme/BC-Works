@@ -217,7 +217,7 @@ AV2();
 function AV2() {
 	$( ".close" ).unbind();
  $('a#listing-2-undefined')[0].click();
-	$('#map').append('<div class="autoview">hello</div>');  
+	$('.avtext').append('<div class="autoview">hello</div>');  
  
  var timer = setTimeout(function() {
 AV3();
