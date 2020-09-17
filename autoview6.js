@@ -7,11 +7,11 @@ AV2();
 
  $(".view-work").click(function(){
             clearTimeout(timer);
-          
-    });
-$(".close").click(function(){
+          $(".close").click(function(){
          AV2();
     });
+    });
+
 
 
 }
