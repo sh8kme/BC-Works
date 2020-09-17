@@ -199,11 +199,18 @@ AV2();
 
  $(".view-work").click(function(){
             clearTimeout(timer);
+	
+	 
+	 
           $(".close").click(function(){
-          	t.flyTo({
+          	 setTimeout(function(){
+	 
+	 t.flyTo({
             center: [12.5674, 41.8719],
             zoom: 2
         })
+	 
+	 }, 3000);
          AV2().delay( 1500 );
     });
     });
