@@ -128,66 +128,6 @@ t.flyTo({
         $(".highlight")[0], $(".loader").fadeOut()
     })
 }
-$.ajax({
-    url: "https://dl.dropbox.com/s/3ds0ujhq2yo2bs1/historical-map.geojson?dl=1",
-    dataType: "json",
-    success: function(e) {
-        mapFunction(e), console.log(e)
-  },
-    error: function(e) {
-        alert(e.statusText)
-    }
-});
-var view = $("#tslshow"),
-    move = "62px";
-if ($(window).width() < 468) var sliderLimit = -15e3;
-else if ($(window).width() < 767) sliderLimit = -3e4;
-else sliderLimit = -2385;
-$("#rightArrow").click(function() {
-    parseInt(view.css("left")) >= sliderLimit && view.stop(!1, !0).animate({
-        left: "-=" + move
-    }, {
-        duration: 400
-    })
-}), $("#leftArrow").click(function() {
-    parseInt(view.css("left")) < 0 && view.stop(!1, !0).animate({
-        left: "+=" + move
-    }, {
-        duration: 400
-    })
-});
-var viewm = $("#tslshowm"),
-    movem = "100vw";
-$("#rightArrowm").click(function() {
-    parseInt(viewm.css("left")) >= sliderLimit && viewm.stop(!1, !0).animate({
-        left: "-=" + movem
-    }, {
-        duration: 400
-    })
-}), $("#leftArrowm").click(function() {
-    parseInt(viewm.css("left")) < 0 && viewm.stop(!1, !0).animate({
-        left: "+=" + movem
-    }, {
-        duration: 400
-    })
-}),  $("span.numeral.all").click(function() {
-    $(".numeral").removeClass("highlight"), $(this).addClass("highlight"), $(".marker").show()
-}), $("span.numeral.numi").click(function() {
-    $(".numeral").removeClass("highlight"), $(this).addClass("highlight"), $(".marker").hide(), $(".marker.rn-1").show()
-}), $("span.numeral.numii").click(function() {
-    $(".numeral").removeClass("highlight"), $(this).addClass("highlight"), $(".marker").hide(), $(".marker.rn-2").show()
-}), $("span.numeral.numiii").click(function() {
-    $(".numeral").removeClass("highlight"), $(this).addClass("highlight"), $(".marker").hide(), $(".marker.rn-3").show()
-}), $("span.numeral.numiv").click(function() {
-    $(".numeral").removeClass("highlight"), $(this).addClass("highlight"), $(".marker").hide(), $(".marker.rn-4").show()
-}), $("span.numeral.numv").click(function() {
-    $(".numeral").removeClass("highlight"), $(this).addClass("highlight"), $(".marker").hide(), $(".marker.rn-5").show()
-}); 
-var check = function(){
-$("#tslshow").append('<div id="unveil" class="tblock unmarked"><a href="#"><h6>∞</h6>BLOCK 39</a></div>');
-}
-setTimeout(check, 5000); 
-
 
 function AV1() {
  $('a#listing-4-undefined')[0].click();
@@ -322,3 +262,64 @@ $(document).ready(function() {
        AV1();
     });
 });
+
+$.ajax({
+    url: "https://dl.dropbox.com/s/3ds0ujhq2yo2bs1/historical-map.geojson?dl=1",
+    dataType: "json",
+    success: function(e) {
+        mapFunction(e), console.log(e)
+  },
+    error: function(e) {
+        alert(e.statusText)
+    }
+});
+var view = $("#tslshow"),
+    move = "62px";
+if ($(window).width() < 468) var sliderLimit = -15e3;
+else if ($(window).width() < 767) sliderLimit = -3e4;
+else sliderLimit = -2385;
+$("#rightArrow").click(function() {
+    parseInt(view.css("left")) >= sliderLimit && view.stop(!1, !0).animate({
+        left: "-=" + move
+    }, {
+        duration: 400
+    })
+}), $("#leftArrow").click(function() {
+    parseInt(view.css("left")) < 0 && view.stop(!1, !0).animate({
+        left: "+=" + move
+    }, {
+        duration: 400
+    })
+});
+var viewm = $("#tslshowm"),
+    movem = "100vw";
+$("#rightArrowm").click(function() {
+    parseInt(viewm.css("left")) >= sliderLimit && viewm.stop(!1, !0).animate({
+        left: "-=" + movem
+    }, {
+        duration: 400
+    })
+}), $("#leftArrowm").click(function() {
+    parseInt(viewm.css("left")) < 0 && viewm.stop(!1, !0).animate({
+        left: "+=" + movem
+    }, {
+        duration: 400
+    })
+}),  $("span.numeral.all").click(function() {
+    $(".numeral").removeClass("highlight"), $(this).addClass("highlight"), $(".marker").show()
+}), $("span.numeral.numi").click(function() {
+    $(".numeral").removeClass("highlight"), $(this).addClass("highlight"), $(".marker").hide(), $(".marker.rn-1").show()
+}), $("span.numeral.numii").click(function() {
+    $(".numeral").removeClass("highlight"), $(this).addClass("highlight"), $(".marker").hide(), $(".marker.rn-2").show()
+}), $("span.numeral.numiii").click(function() {
+    $(".numeral").removeClass("highlight"), $(this).addClass("highlight"), $(".marker").hide(), $(".marker.rn-3").show()
+}), $("span.numeral.numiv").click(function() {
+    $(".numeral").removeClass("highlight"), $(this).addClass("highlight"), $(".marker").hide(), $(".marker.rn-4").show()
+}), $("span.numeral.numv").click(function() {
+    $(".numeral").removeClass("highlight"), $(this).addClass("highlight"), $(".marker").hide(), $(".marker.rn-5").show()
+}); 
+var check = function(){
+$("#tslshow").append('<div id="unveil" class="tblock unmarked"><a href="#"><h6>∞</h6>BLOCK 39</a></div>');
+}
+setTimeout(check, 5000); 
+
