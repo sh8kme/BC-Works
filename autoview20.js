@@ -2,7 +2,7 @@
     "remove" in Element.prototype || (Element.prototype.remove = function() {
         this.parentNode && this.parentNode.removeChild(this)
     }), mapboxgl.accessToken = "pk.eyJ1IjoicmFsaWNlIiwiYSI6ImNrYXBpazd6ajFmamoyem12ZDd4M2tiZW8ifQ.DGYdxYBP6f5vO6COIyN50g";
-    var t = new mapboxgl.Map({
+     t = new mapboxgl.Map({
         container: "map",
         zoom: 2,
         center: [12.5674, 41.8719],
@@ -200,7 +200,9 @@ AV2();
  $(".view-work").click(function(){
             clearTimeout(timer);
           $(".close").click(function(){
-          	
+          	t.flyTo({
+center: e.features[0].geometry.coordinates
+});
          AV2();
     });
     });
