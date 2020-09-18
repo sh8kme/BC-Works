@@ -191,8 +191,70 @@ $("#tslshow").append('<div id="unveil" class="tblock unmarked"><a href="#"><h6>â
 }
 setTimeout(check, 7000);
 
+
+var iSpeed = 50; // time delay of print out
+var iIndex = 0; // start printing array at this posision
+var iArrLength = aText[0].length; // the length of the text array
+var iScrollAt = 10; // start scrolling up at this many lines
+
+var iTextPos = 0; // initialise text position
+var sContents = ''; // initialise contents variable
+var iRow; // initialise current row
+var sNewChar; //sratch to test delay
+
+function typewriter()
+{
+ sContents = ' ';
+ iRow = Math.max(0, iIndex-iScrollAt);
+ var destination = document.getElementById("typedtext");
+
+ while ( iRow < iIndex ) {
+  sContents += aText[iRow++] + '<br />' ;
+ }
+
+ destination.innerHTML = sContents + aText[iIndex].substring(0, iTextPos) + "_";
+  
+ sNewChar = aText[iIndex][iTextPos];
+   switch(sNewChar)
+   {
+     case '?':
+       setTimeout("typewriter()", iSpeed*10);
+       break;
+     case ',':
+       setTimeout("typewriter()", iSpeed*5);
+       break;
+     case '.':
+       setTimeout("typewriter()", iSpeed*10);
+       break;
+     default:
+       setTimeout("typewriter()", iSpeed);
+   }
+ if ( iTextPos++ == iArrLength )
+ {
+  iTextPos = 0;
+  iIndex++;
+  if ( iIndex != aText.length )
+  {
+   iArrLength = aText[iIndex].length;
+  }
+ }
+ 
+}
+
+typewriter();   
+
+
+
+
 function AV1() {
  $('#marker-22-undefined')[0].click();
+	var aText = new Array(
+"How do sdg sg gs to buy in a world saturated with products and services?",
+  "",
+ "While many companies claim to be helping and progressing society, some do more than others."
+);
+	$('.mapboxgl-popup-content').append( '<div id="typedtext"></div>');
+	
  var timer = setTimeout(function() {
 AV2();
  	  }, 7000);
