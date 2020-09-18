@@ -298,7 +298,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
 AV4();
  	  }, 13000);
 
- $(".view-work").click(function(){
+ $(".view-work, #Tour.play").click(function(){
             clearTimeout(timer);
  $(".close").click(function(){
           	setTimeout(
@@ -336,7 +336,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
 AV5();
  	  }, 13000);
 
- $(".view-work").click(function(){
+ $(".view-work, #Tour.play").click(function(){
             clearTimeout(timer);
           
   
@@ -376,7 +376,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
 AV6();
  	  }, 13000);
 
- $(".view-work").click(function(){
+ $(".view-work, #Tour.play").click(function(){
             clearTimeout(timer);
           
 $(".close").click(function(){
@@ -415,7 +415,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
 AV7();
  	  }, 13000);
 
- $(".view-work").click(function(){
+ $(".view-work, #Tour.play").click(function(){
             clearTimeout(timer);
 $(".close").click(function(){
           	setTimeout(
@@ -468,6 +468,7 @@ AV8();
 
 function AV8() {
 	$( ".close" ).unbind();
+	 $('#Tour.play').toggleClass('play')
  $('a#listing-9-undefined')[0].click();
 var content = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.';
 	var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
