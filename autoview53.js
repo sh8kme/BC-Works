@@ -202,7 +202,7 @@ function AV1() {
 	var content = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.';
 	var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
 
-$('<p class="typer">').appendTo('.mapboxgl-popup-content');
+$('<h6 class="typer">').appendTo('.mapboxgl-popup-content');
 $(ele).hide().appendTo('.typer').each(function (i) {
     $(this).delay(50 * i).css({
         display: 'inline',
