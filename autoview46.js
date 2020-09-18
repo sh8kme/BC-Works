@@ -198,7 +198,7 @@ setTimeout(check, 7000);
 
 function AV1() {
  $('#marker-22-undefined')[0].click();
-	var aText = new Array(
+	aText = new Array(
 "How do sdg sg gs to buy in a world saturated with products and services?",
   "",
  "While many companies claim to be helping and progressing society, some do more than others."
