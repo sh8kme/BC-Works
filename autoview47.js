@@ -198,13 +198,7 @@ setTimeout(check, 7000);
 
 function AV1() {
  $('#marker-22-undefined')[0].click();
-	aText = new Array(
-"How do sdg sg gs to buy in a world saturated with products and services?",
-  "",
- "While many companies claim to be helping and progressing society, some do more than others."
-);
-	$('.mapboxgl-popup-content').append( '<div id="typedtext"></div>');
-	
+	$('.mapboxgl-popup-content').append('<pre id="typewriter"><span>asdasdasd</span></pre>')
  var timer = setTimeout(function() {
 AV2();
  	  }, 7000);
@@ -375,55 +369,73 @@ $(document).ready(function() {
     });
 });
 
+function setupTypewriter(t) {
+	    var HTML = t.innerHTML;
 
+	    t.innerHTML = "";
 
-var iSpeed = 50; // time delay of print out
-var iIndex = 0; // start printing array at this posision
-var iArrLength = aText[0].length; // the length of the text array
-var iScrollAt = 10; // start scrolling up at this many lines
+	    var cursorPosition = 0,
+	        tag = "",
+	        writingTag = false,
+	        tagOpen = false,
+	        typeSpeed = 100,
+        tempTypeSpeed = 0;
 
-var iTextPos = 0; // initialise text position
-var sContents = ''; // initialise contents variable
-var iRow; // initialise current row
-var sNewChar; //sratch to test delay
+	    var type = function() {
+        
+	        if (writingTag === true) {
+	            tag += HTML[cursorPosition];
+	        }
 
-function typewriter()
-{
- sContents = ' ';
- iRow = Math.max(0, iIndex-iScrollAt);
- var destination = document.getElementById("typedtext");
+	        if (HTML[cursorPosition] === "<") {
+	            tempTypeSpeed = 0;
+	            if (tagOpen) {
+	                tagOpen = false;
+	                writingTag = true;
+	            } else {
+	                tag = "";
+	                tagOpen = true;
+	                writingTag = true;
+	                tag += HTML[cursorPosition];
+	            }
+	        }
+	        if (!writingTag && tagOpen) {
+	            tag.innerHTML += HTML[cursorPosition];
+	        }
+	        if (!writingTag && !tagOpen) {
+	            if (HTML[cursorPosition] === " ") {
+	                tempTypeSpeed = 0;
+	            }
+	            else {
+	                tempTypeSpeed = (Math.random() * typeSpeed) + 50;
+	            }
+	            t.innerHTML += HTML[cursorPosition];
+	        }
+	        if (writingTag === true && HTML[cursorPosition] === ">") {
+	            tempTypeSpeed = (Math.random() * typeSpeed) + 50;
+	            writingTag = false;
+	            if (tagOpen) {
+	                var newSpan = document.createElement("span");
+	                t.appendChild(newSpan);
+	                newSpan.innerHTML = tag;
+	                tag = newSpan.firstChild;
+	            }
+	        }
 
- while ( iRow < iIndex ) {
-  sContents += aText[iRow++] + '<br />' ;
- }
+	        cursorPosition += 1;
+	        if (cursorPosition < HTML.length - 1) {
+	            setTimeout(type, tempTypeSpeed);
+	        }
 
- destination.innerHTML = sContents + aText[iIndex].substring(0, iTextPos) + "_";
-  
- sNewChar = aText[iIndex][iTextPos];
-   switch(sNewChar)
-   {
-     case '?':
-       setTimeout("typewriter()", iSpeed*10);
-       break;
-     case ',':
-       setTimeout("typewriter()", iSpeed*5);
-       break;
-     case '.':
-       setTimeout("typewriter()", iSpeed*10);
-       break;
-     default:
-       setTimeout("typewriter()", iSpeed);
-   }
- if ( iTextPos++ == iArrLength )
- {
-  iTextPos = 0;
-  iIndex++;
-  if ( iIndex != aText.length )
-  {
-   iArrLength = aText[iIndex].length;
-  }
- }
- 
-}
+	    };
 
-typewriter();
+	    return {
+	        type: type
+	    };
+	}
+
+	var typer = document.getElementById('typewriter');
+
+	typewriter = setupTypewriter(typewriter);
+
+	typewriter.type();
