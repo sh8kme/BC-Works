@@ -237,14 +237,13 @@ AV2();
 
 function AV2() {
 	$( ".close" ).unbind();
-	$('.typer').remove();
  $('#marker-24-undefined')[0].click();
 	var content = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.';
 	var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
 setTimeout(
   function() 
   {
-$('<h6 class="typer">').appendTo('.mapboxgl-popup-content');
+$('<h6 class="typer2">').appendTo('.mapboxgl-popup-content');
 	 }, 1500);   
 $(ele).hide().appendTo('.typer').each(function (i) {
     $(this).delay(50 * i).css({
