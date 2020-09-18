@@ -495,7 +495,7 @@ $(document).ready(function() {
     $(document).on('click', '#Tour', function(event) {
         event.preventDefault();
 	    $(this).toggleClass('play')
-	    if($('#tour').length()) {
+	    if($('#tour').length) {
        AV1();
 	    }
     });
