@@ -191,8 +191,6 @@ $("#tslshow").append('<div id="unveil" class="tblock unmarked"><a href="#"><h6>â
 }
 setTimeout(check, 7000);
 
-const delay = ms => new Promise(res => setTimeout(res, ms));
-
 function AV1() {
  $('#marker-22-undefined')[0].click();
  var timer = setTimeout(function() {
@@ -205,16 +203,14 @@ AV2();
 	 
 	 
           $(".close-info-box").click(function(){
-          	 
-	 
-	 await delay(5000);
-     AV2(); 
-
+          	setTimeout(
+  function() 
+  {
+    AV2(); 
+   
+  }, 5000); 
 	
-		
-	
-        
-    });
+  });
     });
 }
 
