@@ -200,7 +200,7 @@ function AV1() {
  $('#marker-22-undefined')[0].click();
 	
 	var content = 'If life is so blue, then, select another colour from thee rainbow';
-	var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
+	var ele = '<p class="type"><span>' + content.split('').join('</span><span>') + '</span></p>';
 
 
 $(ele).hide().appendTo('.mapboxgl-popup-content').each(function (i) {
