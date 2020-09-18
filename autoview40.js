@@ -189,7 +189,9 @@ $("#rightArrowm").click(function() {
 var check = function(){
 $("#tslshow").append('<div id="unveil" class="tblock unmarked"><a href="#"><h6>∞</h6>BLOCK 39</a></div>');
 }
-setTimeout(check, 5000); 
+setTimeout(check, 7000);
+
+const delay = ms => new Promise(res => setTimeout(res, ms));
 
 function AV1() {
  $('#marker-22-undefined')[0].click();
@@ -205,7 +207,7 @@ AV2();
           $(".close-info-box").click(function(){
           	 
 	 
-	
+	 await delay(5000);
      AV2(); 
 
 	
@@ -217,27 +219,19 @@ AV2();
 }
 
 function AV2() {
-	setTimeout(
-  function() 
-  {
-   $('#marker-23-undefined')[0].click();
-	 $('.mapboxgl-popup-content').append("<p>&mdash; Text goes here adf asf asf af afs afs af af af af af  faf  &mdash;</p>");
-  }, 5000);
-
- 
+	$( ".close" ).unbind();
+ $('#marker-24-undefined')[0].click();
  var timer = setTimeout(function() {
-AV3();
+AV4();
  	  }, 7000);
 
  $(".view-work").click(function(){
             clearTimeout(timer);
-         $( ".close-info-box" ).unbind(); 
-  $(".close-info-box").click(function(){
+  $(".close").click(function(){
          AV3();
     });
     });
 }
-
 
 function AV3() {
 	$( ".close" ).unbind();
