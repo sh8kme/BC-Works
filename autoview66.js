@@ -374,7 +374,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
  }, 2000);  
  var timer = setTimeout(function() {
 AV6();
- 	  }, 7000);
+ 	  }, 13000);
 
  $(".view-work").click(function(){
             clearTimeout(timer);
@@ -413,7 +413,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
  }, 2000);  
  var timer = setTimeout(function() {
 AV7();
- 	  }, 7000);
+ 	  }, 13000);
 
  $(".view-work").click(function(){
             clearTimeout(timer);
@@ -450,7 +450,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
  }, 2000);  
  var timer = setTimeout(function() {
 AV8();
- 	  }, 7000);
+ 	  }, 13000);
 
  $(".view-work").click(function(){
             clearTimeout(timer);
@@ -487,7 +487,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
  }, 2000);  
   setTimeout(() => { 
     $('.mapboxgl-popup-close-button')[0].click();
-    }, 7000);
+    }, 13000);
 }
 
 
