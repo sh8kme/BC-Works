@@ -494,6 +494,9 @@ $(ele).hide().appendTo('.typer').each(function (i) {
 $(document).ready(function() {
     $(document).on('click', '#Tour', function(event) {
         event.preventDefault();
+	    $(this).toggleClass('play')
+	    if($('#tour').length()) {
        AV1();
+	    }
     });
 });
