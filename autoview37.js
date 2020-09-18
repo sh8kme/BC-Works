@@ -205,9 +205,13 @@ AV2();
           $(".close-info-box").click(function(){
           	 
 	 
+	setTimeout(
+  function() 
+  {
+     AV2(); 
+  }, 5000);
 	
-	
-		 AV2(); 
+		
 	
         
     });
