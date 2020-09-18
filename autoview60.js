@@ -205,7 +205,7 @@ setTimeout(
   function() 
   {
 $('<h6 class="typer">').appendTo('.mapboxgl-popup-content');
-	 }, 1500);   
+	 
 $(ele).hide().appendTo('.typer').each(function (i) {
     $(this).delay(50 * i).css({
         display: 'inline',
@@ -214,7 +214,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
         opacity: 1
     }, 100);
 });
-	 }, 1500); 
+ }, 1500);  	
  var timer = setTimeout(function() {
 AV2();
  	  }, 7000);
