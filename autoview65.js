@@ -276,7 +276,7 @@ AV3();
 
 function AV3() {
 	$( ".close" ).unbind();
- $('#marker-24-undefined')[0].click();
+ $('#marker-29-undefined')[0].click();
 	var content = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.';
 	var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
 setTimeout(
@@ -356,6 +356,22 @@ AV5();
 function AV5() {
 	$( ".close" ).unbind();
  $('a#listing-6-undefined')[0].click();
+	var content = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.';
+	var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
+setTimeout(
+  function() 
+  {
+$('<h6 class="typer">').appendTo('.mapboxgl-popup-content');
+	 
+$(ele).hide().appendTo('.typer').each(function (i) {
+    $(this).delay(50 * i).css({
+        display: 'inline',
+        opacity: 0
+    }).animate({
+        opacity: 1
+    }, 100);
+});
+ }, 2000);  
  var timer = setTimeout(function() {
 AV6();
  	  }, 7000);
@@ -379,6 +395,22 @@ $(".close").click(function(){
 function AV6() {
 	$( ".close" ).unbind();
  $('a#listing-7-undefined')[0].click();
+	var content = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.';
+	var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
+setTimeout(
+  function() 
+  {
+$('<h6 class="typer">').appendTo('.mapboxgl-popup-content');
+	 
+$(ele).hide().appendTo('.typer').each(function (i) {
+    $(this).delay(50 * i).css({
+        display: 'inline',
+        opacity: 0
+    }).animate({
+        opacity: 1
+    }, 100);
+});
+ }, 2000);  
  var timer = setTimeout(function() {
 AV7();
  	  }, 7000);
@@ -400,6 +432,22 @@ $(".close").click(function(){
 function AV7() {
 	$( ".close" ).unbind();
  $('a#listing-8-undefined')[0].click();
+	var content = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.';
+	var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
+setTimeout(
+  function() 
+  {
+$('<h6 class="typer">').appendTo('.mapboxgl-popup-content');
+	 
+$(ele).hide().appendTo('.typer').each(function (i) {
+    $(this).delay(50 * i).css({
+        display: 'inline',
+        opacity: 0
+    }).animate({
+        opacity: 1
+    }, 100);
+});
+ }, 2000);  
  var timer = setTimeout(function() {
 AV8();
  	  }, 7000);
@@ -421,7 +469,22 @@ AV8();
 function AV8() {
 	$( ".close" ).unbind();
  $('a#listing-9-undefined')[0].click();
-
+var content = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.';
+	var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
+setTimeout(
+  function() 
+  {
+$('<h6 class="typer">').appendTo('.mapboxgl-popup-content');
+	 
+$(ele).hide().appendTo('.typer').each(function (i) {
+    $(this).delay(50 * i).css({
+        display: 'inline',
+        opacity: 0
+    }).animate({
+        opacity: 1
+    }, 100);
+});
+ }, 2000);  
   setTimeout(() => { 
     $('.mapboxgl-popup-close-button')[0].click();
     }, 7000);
