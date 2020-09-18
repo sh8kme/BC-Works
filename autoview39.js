@@ -205,11 +205,9 @@ AV2();
           $(".close-info-box").click(function(){
           	 
 	 
-	setTimeout(
-  function() 
-  {
+	
      AV2(); 
-  }, 5000);
+
 	
 		
 	
@@ -219,9 +217,13 @@ AV2();
 }
 
 function AV2() {
-	
- $('#marker-23-undefined')[0].click();
+	setTimeout(
+  function() 
+  {
+   $('#marker-23-undefined')[0].click();
 	 $('.mapboxgl-popup-content').append("<p>&mdash; Text goes here adf asf asf af afs afs af af af af af  faf  &mdash;</p>");
+  }, 5000);
+
  
  var timer = setTimeout(function() {
 AV3();
