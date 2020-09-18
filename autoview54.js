@@ -201,8 +201,11 @@ function AV1() {
 	
 	var content = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.';
 	var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
-
+setTimeout(
+  function() 
+  {
 $('<h6 class="typer">').appendTo('.mapboxgl-popup-content');
+	 }, 1500);   
 $(ele).hide().appendTo('.typer').each(function (i) {
     $(this).delay(50 * i).css({
         display: 'inline',
@@ -235,6 +238,21 @@ AV2();
 function AV2() {
 	$( ".close" ).unbind();
  $('#marker-24-undefined')[0].click();
+	var content = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.';
+	var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
+setTimeout(
+  function() 
+  {
+$('<h6 class="typer">').appendTo('.mapboxgl-popup-content');
+	 }, 1500);   
+$(ele).hide().appendTo('.typer').each(function (i) {
+    $(this).delay(50 * i).css({
+        display: 'inline',
+        opacity: 0
+    }).animate({
+        opacity: 1
+    }, 100);
+});
  var timer = setTimeout(function() {
 AV4();
  	  }, 7000);
