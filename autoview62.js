@@ -217,7 +217,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
  }, 1500);  	
  var timer = setTimeout(function() {
 AV2();
- 	  }, 7000);
+ 	  }, 11000);
 
  $(".view-work").click(function(){
             clearTimeout(timer);
@@ -254,10 +254,10 @@ $(ele).hide().appendTo('.typer').each(function (i) {
         opacity: 1
     }, 100);
 });
- }, 1500);  	
+ }, 2000);  	
  var timer = setTimeout(function() {
 AV3();
- 	  }, 7000);
+ 	  }, 11000);
 
  $(".view-work").click(function(){
             clearTimeout(timer);
