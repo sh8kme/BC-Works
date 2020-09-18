@@ -222,7 +222,7 @@ AV2();
 
  $(".view-work, #Tour.play").click(function(){
             clearTimeout(timer);
-	  $('#Tour.play').removeClass('play')
+	
 	 
 	 
           $(".close").click(function(){
@@ -262,7 +262,7 @@ AV3();
 
  $(".view-work, #Tour.play").click(function(){
             clearTimeout(timer);
-	  $('#Tour.play').removeClass('play')
+	
  $(".close").click(function(){
           	setTimeout(
   function() 
@@ -301,7 +301,7 @@ AV4();
 
  $(".view-work, #Tour.play").click(function(){
             clearTimeout(timer);
-	 $('#Tour.play').removeClass('play')
+	
  $(".close").click(function(){
           	setTimeout(
   function() 
@@ -340,7 +340,7 @@ AV5();
 
  $(".view-work, #Tour.play").click(function(){
             clearTimeout(timer);
-          $('#Tour.play').removeClass('play')
+         
   
        $(".close").click(function(){
           	setTimeout(
@@ -380,7 +380,7 @@ AV6();
 
  $(".view-work, #Tour.play").click(function(){
             clearTimeout(timer);
-          $('#Tour.play').removeClass('play')
+      
 $(".close").click(function(){
           	setTimeout(
   function() 
@@ -419,7 +419,7 @@ AV7();
 
  $(".view-work, #Tour.play").click(function(){
             clearTimeout(timer);
-	  $('#Tour.play').removeClass('play')
+	
 $(".close").click(function(){
           	setTimeout(
   function() 
@@ -457,7 +457,7 @@ AV8();
 
  $(".view-work, #Tour.play").click(function(){
             clearTimeout(timer);
-	  $('#Tour.play').removeClass('play')
+	 
  $(".close").click(function(){
           	setTimeout(
   function() 
