@@ -237,6 +237,7 @@ AV2();
 
 function AV2() {
 	$( ".close" ).unbind();
+	$('.typer').remove();
  $('#marker-24-undefined')[0].click();
 	var content = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.';
 	var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
