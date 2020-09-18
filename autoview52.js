@@ -199,7 +199,7 @@ setTimeout(check, 7000);
 function AV1() {
  $('#marker-22-undefined')[0].click();
 	
-	var content = 'If life is so blue, then, select another colour from thee rainbow';
+	var content = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.';
 	var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
 
 $('<p class="typer">').appendTo('.mapboxgl-popup-content');
