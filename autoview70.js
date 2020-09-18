@@ -220,7 +220,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
 AV2();
  	  }, 13000);
 
- $(".view-work").click(function(){
+ $(".view-work, #Tour.play").click(function(){
             clearTimeout(timer);
 	
 	 
@@ -260,7 +260,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
 AV3();
  	  }, 13000);
 
- $(".view-work").click(function(){
+ $(".view-work, #Tour.play").click(function(){
             clearTimeout(timer);
  $(".close").click(function(){
           	setTimeout(
@@ -452,7 +452,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
 AV8();
  	  }, 13000);
 
- $(".view-work").click(function(){
+ $(".view-work, #Tour.play").click(function(){
             clearTimeout(timer);
  $(".close").click(function(){
           	setTimeout(
@@ -495,7 +495,7 @@ $(document).ready(function() {
     $(document).on('click', '#Tour', function(event) {
         event.preventDefault();
 	    $(this).toggleClass('play')
-	    if($('#tour.play').length) {
+	    if($('#Tour.play').length) {
        AV1();
 	    }
     });
