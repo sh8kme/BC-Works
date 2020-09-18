@@ -214,6 +214,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
         opacity: 1
     }, 100);
 });
+	 }, 1500); 
  var timer = setTimeout(function() {
 AV2();
  	  }, 7000);
@@ -240,7 +241,7 @@ function AV2() {
  $('#marker-24-undefined')[0].click();
 	
  var timer = setTimeout(function() {
-AV4();
+AV3();
  	  }, 7000);
 
  $(".view-work").click(function(){
