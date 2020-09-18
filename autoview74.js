@@ -258,7 +258,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
  }, 2000);  	
  var timer = setTimeout(function() {
 AV3();
- 	  }, 13000);
+ 	  }, 16000);
 
  $(".view-work, #Tour.play").click(function(){
             clearTimeout(timer);
@@ -297,7 +297,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
 	
  var timer = setTimeout(function() {
 AV4();
- 	  }, 13000);
+ 	  }, 16000);
 
  $(".view-work, #Tour.play").click(function(){
             clearTimeout(timer);
@@ -336,7 +336,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
  }, 2000);  
  var timer = setTimeout(function() {
 AV5();
- 	  }, 13000);
+ 	  }, 16000);
 
  $(".view-work, #Tour.play").click(function(){
             clearTimeout(timer);
@@ -376,7 +376,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
  }, 2000);  
  var timer = setTimeout(function() {
 AV6();
- 	  }, 13000);
+ 	  }, 16000);
 
  $(".view-work, #Tour.play").click(function(){
             clearTimeout(timer);
@@ -415,7 +415,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
  }, 2000);  
  var timer = setTimeout(function() {
 AV7();
- 	  }, 13000);
+ 	  }, 16000);
 
  $(".view-work, #Tour.play").click(function(){
             clearTimeout(timer);
@@ -453,7 +453,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
  }, 2000);  
  var timer = setTimeout(function() {
 AV8();
- 	  }, 13000);
+ 	  }, 16000);
 
  $(".view-work, #Tour.play").click(function(){
             clearTimeout(timer);
@@ -492,7 +492,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
  }, 2000);  
   setTimeout(() => { 
     $('.mapboxgl-popup-close-button')[0].click();
-    }, 13000);
+    }, 16000);
 }
 
 
