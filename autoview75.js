@@ -1,5 +1,6 @@
  
-  function mapFunction(e) {
+ 
+ function mapFunction(e) {
     "remove" in Element.prototype || (Element.prototype.remove = function() {
         this.parentNode && this.parentNode.removeChild(this)
     }), mapboxgl.accessToken = "pk.eyJ1IjoicmFsaWNlIiwiYSI6ImNrYXBpazd6ajFmamoyem12ZDd4M2tiZW8ifQ.DGYdxYBP6f5vO6COIyN50g";
@@ -220,7 +221,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
 AV2();
  	  }, 13000);
 
- $(".view-work, #Tour.play").click(function(){
+ $(".view-work").click(function(){
             clearTimeout(timer);
 	
 	 
@@ -260,7 +261,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
 AV3();
  	  }, 16000);
 
- $(".view-work, #Tour.play").click(function(){
+ $(".view-work").click(function(){
             clearTimeout(timer);
 	
  $(".close").click(function(){
@@ -299,7 +300,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
 AV4();
  	  }, 16000);
 
- $(".view-work, #Tour.play").click(function(){
+ $(".view-work").click(function(){
             clearTimeout(timer);
 	
  $(".close").click(function(){
@@ -338,7 +339,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
 AV5();
  	  }, 16000);
 
- $(".view-work, #Tour.play").click(function(){
+ $(".view-work").click(function(){
             clearTimeout(timer);
          
   
@@ -378,7 +379,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
 AV6();
  	  }, 16000);
 
- $(".view-work, #Tour.play").click(function(){
+ $(".view-work").click(function(){
             clearTimeout(timer);
       
 $(".close").click(function(){
@@ -417,7 +418,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
 AV7();
  	  }, 16000);
 
- $(".view-work, #Tour.play").click(function(){
+ $(".view-work").click(function(){
             clearTimeout(timer);
 	
 $(".close").click(function(){
@@ -455,7 +456,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
 AV8();
  	  }, 16000);
 
- $(".view-work, #Tour.play").click(function(){
+ $(".view-work").click(function(){
             clearTimeout(timer);
 	 
  $(".close").click(function(){
