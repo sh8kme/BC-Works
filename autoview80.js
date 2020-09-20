@@ -498,7 +498,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
 
 
 $(document).ready(function() {
-    $(document).on('click', '#Tour.ready', function(event) {
+    $(document).on('click', '#Tour.ready, #takeTour', function(event) {
         event.preventDefault();
 	 $(this).addClass('play').removeClass('ready');
 	  //  if($('#Tour.play').length) {
