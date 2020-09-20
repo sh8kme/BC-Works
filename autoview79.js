@@ -500,7 +500,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
 $(document).ready(function() {
     $(document).on('click', '#Tour.ready', function(event) {
         event.preventDefault();
-	 $(this).addClass('play').removeClass('.ready');
+	 $(this).addClass('play').removeClass('ready');
 	  //  if($('#Tour.play').length) {
        AV1();
 	  //  }
