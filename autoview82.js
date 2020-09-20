@@ -1,5 +1,4 @@
 
-
  function mapFunction(e) {
     "remove" in Element.prototype || (Element.prototype.remove = function() {
         this.parentNode && this.parentNode.removeChild(this)
@@ -501,7 +500,7 @@ $(ele).hide().appendTo('.typer').each(function (i) {
 $(document).ready(function() {
     $(document).on('click', '#Tour.ready, #takeTour', function(event) {
         //event.preventDefault();
-	 $(this).addClass('play').removeClass('ready');
+	 $('#Tour.ready').addClass('play').removeClass('ready');
 	  //  if($('#Tour.play').length) {
        AV1();
 	  //  }
