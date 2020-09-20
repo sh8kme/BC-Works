@@ -1,5 +1,6 @@
  
  
+ 
  function mapFunction(e) {
     "remove" in Element.prototype || (Element.prototype.remove = function() {
         this.parentNode && this.parentNode.removeChild(this)
@@ -494,13 +495,14 @@ $(ele).hide().appendTo('.typer').each(function (i) {
   setTimeout(() => { 
     $('.mapboxgl-popup-close-button')[0].click();
     }, 16000);
+   $('#Tour').removeClass('play')
 }
 
 
 $(document).ready(function() {
     $(document).on('click', '#Tour', function(event) {
         event.preventDefault();
-	    $(this).toggleClass('play')
+	    $(this).addClass('play')
 	    if($('#Tour.play').length) {
        AV1();
 	    }
