@@ -199,7 +199,7 @@ setTimeout(check, 7000);
 
 function AV1() {
  $('#marker-22-undefined')[0].click();
-	$( "#Tour" ).unbind();
+	
 	var content = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.';
 	var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
 setTimeout(
@@ -493,16 +493,16 @@ $(ele).hide().appendTo('.typer').each(function (i) {
   setTimeout(() => { 
     $('.mapboxgl-popup-close-button')[0].click();
     }, 16000);
-   $('#Tour').removeClass('play')
+   $('#Tour').removeClass('play').addClass('ready');
 }
 
 
 $(document).ready(function() {
-    $(document).on('click', '#Tour', function(event) {
+    $(document).on('click', '#Tour.ready', function(event) {
         event.preventDefault();
-	    $(this).addClass('play')
-	    if($('#Tour.play').length) {
+	 $(this).addClass('play').removeClass('.ready');
+	  //  if($('#Tour.play').length) {
        AV1();
-	    }
+	  //  }
     });
 });
