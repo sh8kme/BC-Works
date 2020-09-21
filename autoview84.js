@@ -89,7 +89,7 @@
   t.flyTo({
  center: e.geometry.coordinates,
 zoom: 12,
-	offset: [300, 0],  
+	offset: [0, 300],  
         })
         console.log(e.properties.block);
     } else
