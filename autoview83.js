@@ -88,7 +88,8 @@
  function a(e) {
   t.flyTo({
  center: e.geometry.coordinates,
-zoom: 12
+zoom: 12,
+	offset: [300, 0],  
         })
         console.log(e.properties.block);
     } else
