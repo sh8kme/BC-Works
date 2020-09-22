@@ -253,6 +253,7 @@ setTimeout(
   function() 
   {
 	if ($(window).width() < 768) { 
+		   $('<div class="type-bg">').insertBefore('.history.mb');
 		$('<h6 class="typer">').prependTo('.type-bg');
 	} else {
 $('<h6 class="typer">').appendTo('.mapboxgl-popup-content');
@@ -287,6 +288,7 @@ AV3();
 
 function AV3() {
 	$( ".close" ).unbind();
+	$( ".type-bg" ).remove();
  $('#marker-29-undefined')[0].click();
 	var content = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.';
 	var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
@@ -294,6 +296,7 @@ setTimeout(
   function() 
   {
 if ($(window).width() < 768) { 
+	   $('<div class="type-bg">').insertBefore('.history.mb');
 		$('<h6 class="typer">').prependTo('.type-bg');
 	} else {
 $('<h6 class="typer">').appendTo('.mapboxgl-popup-content');
@@ -331,6 +334,7 @@ AV4();
 
 function AV4() {
 	$( ".close" ).unbind();
+	$( ".type-bg" ).remove();
  $('a#listing-5-undefined')[0].click();
 	var content = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.';
 	var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
@@ -338,6 +342,7 @@ setTimeout(
   function() 
   {
 if ($(window).width() < 768) { 
+	   $('<div class="type-bg">').insertBefore('.history.mb');
 		$('<h6 class="typer">').prependTo('.type-bg');
 	} else {
 $('<h6 class="typer">').appendTo('.mapboxgl-popup-content');
@@ -375,6 +380,7 @@ AV5();
 
 function AV5() {
 	$( ".close" ).unbind();
+	$( ".type-bg" ).remove();
  $('a#listing-6-undefined')[0].click();
 	var content = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.';
 	var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
@@ -382,6 +388,7 @@ setTimeout(
   function() 
   {
 if ($(window).width() < 768) { 
+	   $('<div class="type-bg">').insertBefore('.history.mb');
 		$('<h6 class="typer">').prependTo('.type-bg');
 	} else {
 $('<h6 class="typer">').appendTo('.mapboxgl-popup-content');
@@ -418,6 +425,7 @@ $(".close").click(function(){
 
 function AV6() {
 	$( ".close" ).unbind();
+	$( ".type-bg" ).remove();
  $('a#listing-7-undefined')[0].click();
 	var content = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.';
 	var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
@@ -425,6 +433,7 @@ setTimeout(
   function() 
   {
 if ($(window).width() < 768) { 
+	   $('<div class="type-bg">').insertBefore('.history.mb');
 		$('<h6 class="typer">').prependTo('.type-bg');
 	} else {
 $('<h6 class="typer">').appendTo('.mapboxgl-popup-content');
@@ -460,6 +469,7 @@ $(".close").click(function(){
 
 function AV7() {
 	$( ".close" ).unbind();
+	$( ".type-bg" ).remove();
  $('a#listing-8-undefined')[0].click();
 	var content = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.';
 	var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
@@ -467,6 +477,7 @@ setTimeout(
   function() 
   {
 if ($(window).width() < 768) { 
+	   $('<div class="type-bg">').insertBefore('.history.mb');
 		$('<h6 class="typer">').prependTo('.type-bg');
 	} else {
 $('<h6 class="typer">').appendTo('.mapboxgl-popup-content');
@@ -502,6 +513,7 @@ AV8();
 
 function AV8() {
 	$( ".close" ).unbind();
+	$( ".type-bg" ).remove();
 	 $('#Tour.play').removeClass('play')
  $('a#listing-9-undefined')[0].click();
 var content = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.';
@@ -510,6 +522,7 @@ setTimeout(
   function() 
   {
 if ($(window).width() < 768) { 
+	   $('<div class="type-bg">').insertBefore('.history.mb');
 		$('<h6 class="typer">').prependTo('.type-bg');
 	} else {
 $('<h6 class="typer">').appendTo('.mapboxgl-popup-content');
