@@ -206,7 +206,11 @@ function AV1() {
 setTimeout(
   function() 
   {
+if ($(window).width() < 768) { 
+		$('<h6 class="typer">').prependTo('.type-bg');
+	} else {
 $('<h6 class="typer">').appendTo('.mapboxgl-popup-content');
+	}
 	 
 $(ele).hide().appendTo('.typer').each(function (i) {
     $(this).delay(50 * i).css({
@@ -287,7 +291,11 @@ function AV3() {
 setTimeout(
   function() 
   {
+if ($(window).width() < 768) { 
+		$('<h6 class="typer">').prependTo('.type-bg');
+	} else {
 $('<h6 class="typer">').appendTo('.mapboxgl-popup-content');
+	}
 	 
 $(ele).hide().appendTo('.typer').each(function (i) {
     $(this).delay(50 * i).css({
@@ -327,7 +335,11 @@ function AV4() {
 setTimeout(
   function() 
   {
+if ($(window).width() < 768) { 
+		$('<h6 class="typer">').prependTo('.type-bg');
+	} else {
 $('<h6 class="typer">').appendTo('.mapboxgl-popup-content');
+	}
 	 
 $(ele).hide().appendTo('.typer').each(function (i) {
     $(this).delay(50 * i).css({
@@ -367,7 +379,11 @@ function AV5() {
 setTimeout(
   function() 
   {
+if ($(window).width() < 768) { 
+		$('<h6 class="typer">').prependTo('.type-bg');
+	} else {
 $('<h6 class="typer">').appendTo('.mapboxgl-popup-content');
+	}
 	 
 $(ele).hide().appendTo('.typer').each(function (i) {
     $(this).delay(50 * i).css({
@@ -406,7 +422,11 @@ function AV6() {
 setTimeout(
   function() 
   {
+if ($(window).width() < 768) { 
+		$('<h6 class="typer">').prependTo('.type-bg');
+	} else {
 $('<h6 class="typer">').appendTo('.mapboxgl-popup-content');
+	}
 	 
 $(ele).hide().appendTo('.typer').each(function (i) {
     $(this).delay(50 * i).css({
@@ -444,7 +464,11 @@ function AV7() {
 setTimeout(
   function() 
   {
+if ($(window).width() < 768) { 
+		$('<h6 class="typer">').prependTo('.type-bg');
+	} else {
 $('<h6 class="typer">').appendTo('.mapboxgl-popup-content');
+	}
 	 
 $(ele).hide().appendTo('.typer').each(function (i) {
     $(this).delay(50 * i).css({
@@ -483,7 +507,11 @@ var content = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do e
 setTimeout(
   function() 
   {
+if ($(window).width() < 768) { 
+		$('<h6 class="typer">').prependTo('.type-bg');
+	} else {
 $('<h6 class="typer">').appendTo('.mapboxgl-popup-content');
+	}
 	 
 $(ele).hide().appendTo('.typer').each(function (i) {
     $(this).delay(50 * i).css({
