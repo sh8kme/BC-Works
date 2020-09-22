@@ -88,7 +88,7 @@
  function a(e) {
   t.flyTo({
  center: e.geometry.coordinates,
-zoom: 12,
+zoom: 14,
 	offset: [0, 100],  
         })
         console.log(e.properties.block);
@@ -96,7 +96,7 @@ zoom: 12,
     function a(e) {
         t.flyTo({
             center: e.geometry.coordinates,
-            zoom: 12
+            zoom: 14
         })
     }
  function n(e) {
@@ -199,9 +199,9 @@ setTimeout(check, 7000);
 
 
 function AV1() {
- $('#marker-22-undefined')[0].click();
+ $('#marker-38-undefined')[0].click();
 	
-	var content = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.';
+	var content = 'TO BE REVEALED: The precise geo-coordinates of Hal Finney at the time of the first BTC transaction from Satoshi Nakamoto. Never before publicly disclosed, R Alice would like to thanks Fran Finney for her support. Robert Alice is a proud patron of ALS Assoc. Golden West Chapter.';
 	var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
 setTimeout(
   function() 
@@ -246,8 +246,8 @@ AV2();
 function AV2() {
 	$( ".close" ).unbind();
 	$( ".type-bg" ).remove();
- $('#marker-24-undefined')[0].click();
-	var content = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.';
+ $('#marker-30-undefined')[0].click();
+	var content = 'The precise location that Adam Back coded and developed Hash Cash in 1997. Hashcash was one of only a few select projects directly referenced by Satoshi Nakamoto in his Bitcoin whitepaper.';
 	var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
 setTimeout(
   function() 
@@ -289,8 +289,8 @@ AV3();
 function AV3() {
 	$( ".close" ).unbind();
 	$( ".type-bg" ).remove();
- $('#marker-29-undefined')[0].click();
-	var content = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.';
+ $('#marker-28-undefined')[0].click();
+	var content = 'The precise location that Phil Zimmerman wrote the iconic encryption programme, Pretty Good Privacy. The early history of PGP, and the US states attempts at blocking the public’s use of military grade encryption, stands as a lightening rod for the cypherpunk community.';
 	var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
 setTimeout(
   function() 
@@ -335,8 +335,8 @@ AV4();
 function AV4() {
 	$( ".close" ).unbind();
 	$( ".type-bg" ).remove();
- $('a#listing-5-undefined')[0].click();
-	var content = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.';
+ $('a#listing-23-undefined')[0].click();
+	var content = 'The epicentre of cryptographic and computational disruption, Hut 8 at Bletchley Park, the workplace of Alan Turing during the Second World War.';
 	var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
 setTimeout(
   function() 
@@ -381,8 +381,8 @@ AV5();
 function AV5() {
 	$( ".close" ).unbind();
 	$( ".type-bg" ).remove();
- $('a#listing-6-undefined')[0].click();
-	var content = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.';
+ $('a#listing-21-undefined')[0].click();
+	var content = 'Namesaked university memoralising Louis Brandeis, author of The Right to Privacy (1890), and the single most important early advocate for the protection of the individual over the supervision of the state';
 	var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
 setTimeout(
   function() 
@@ -426,8 +426,8 @@ $(".close").click(function(){
 function AV6() {
 	$( ".close" ).unbind();
 	$( ".type-bg" ).remove();
- $('a#listing-7-undefined')[0].click();
-	var content = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.';
+ $('a#listing-14-undefined')[0].click();
+	var content = 'No architectural design captures the perils of extreme centralisation more than the Palace of Versailles, with the Sun King’s bedchamber sitting at the centre of all axes. 70 years following its creation, the French Revolutionaries stormed the palace and a republic was born.';
 	var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
 setTimeout(
   function() 
@@ -470,53 +470,9 @@ $(".close").click(function(){
 function AV7() {
 	$( ".close" ).unbind();
 	$( ".type-bg" ).remove();
- $('a#listing-8-undefined')[0].click();
-	var content = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.';
-	var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
-setTimeout(
-  function() 
-  {
-if ($(window).width() < 768) { 
-	   $('<div class="type-bg">').insertBefore('.history.mb');
-		$('<h6 class="typer">').prependTo('.type-bg');
-	} else {
-$('<h6 class="typer">').appendTo('.mapboxgl-popup-content');
-	}
-	 
-$(ele).hide().appendTo('.typer').each(function (i) {
-    $(this).delay(50 * i).css({
-        display: 'inline',
-        opacity: 0
-    }).animate({
-        opacity: 1
-    }, 100);
-});
- }, 2000);  
- var timer = setTimeout(function() {
-AV8();
- 	  }, 16000);
-
- $(".view-work").click(function(){
-            clearTimeout(timer);
-	 
- $(".close").click(function(){
-          	setTimeout(
-  function() 
-  {
-    AV7(); 
-   
-  }, 1500); 
-	
-  });
-    });
-}
-
-function AV8() {
-	$( ".close" ).unbind();
-	$( ".type-bg" ).remove();
 	 $('#Tour.play').removeClass('play')
- $('a#listing-9-undefined')[0].click();
-var content = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.';
+ $('a#listing-1-undefined')[0].click();
+var content = 'Ground zero for the development of libertarianism is Laozi - the semi-legendary Chinese philosopher and founder of much of its ideological framework, cast in rock at Mount Quingyuan.';
 	var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
 setTimeout(
   function() 
