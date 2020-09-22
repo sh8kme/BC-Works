@@ -207,7 +207,7 @@ setTimeout(
   function() 
   {
 if ($(window).width() < 768) { 
-                $('<div class="type-bg">').insertBefore('.history-mb');
+                $('<div class="type-bg">').insertBefore('.history.mb');
 		$('<h6 class="typer">').prependTo('.type-bg');
 	} else {
 $('<h6 class="typer">').appendTo('.mapboxgl-popup-content');
