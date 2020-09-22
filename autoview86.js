@@ -246,8 +246,11 @@ function AV2() {
 setTimeout(
   function() 
   {
+	if ($(window).width() < 768) { 
+		$('<h6 class="typer">').prependTo('.history.mb');
+	} else {
 $('<h6 class="typer">').appendTo('.mapboxgl-popup-content');
-	 
+	}
 $(ele).hide().appendTo('.typer').each(function (i) {
     $(this).delay(50 * i).css({
         display: 'inline',
