@@ -201,7 +201,7 @@ setTimeout(check, 7000);
 function AV1() {
  $('#marker-38-undefined')[0].click();
 	
-	var content = 'TO BE REVEALED: The precise geo-coordinates of Hal Finney at the time of the first BTC transaction from Satoshi Nakamoto. Never before publicly disclosed, R Alice would like to thanks Fran Finney for her support. Robert Alice is a proud patron of ALS Assoc. Golden West Chapter.';
+	var content = 'TO BE REVEALED: The precise geo-coordinates of Hal Finney at the time of the first BTC transaction from Satoshi Nakamoto. Never before publicly disclosed, R Alice would like to thank Fran Finney for her support. Robert Alice is a proud patron of ALS Assoc. Golden West Chapter.';
 	var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
 setTimeout(
   function() 
