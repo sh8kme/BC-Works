@@ -539,8 +539,9 @@ $(ele).hide().appendTo('.typer').each(function (i) {
  }, 2000);  
   setTimeout(() => { 
     $('.mapboxgl-popup-close-button')[0].click();
+	  $( ".type-bg" ).remove();
     }, 16000);
-	$( ".type-bg" ).remove();
+	
    $('#Tour').removeClass('play').addClass('ready');
 	
 }
