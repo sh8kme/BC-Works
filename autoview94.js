@@ -540,8 +540,9 @@ $(ele).hide().appendTo('.typer').each(function (i) {
   setTimeout(() => { 
     $('.mapboxgl-popup-close-button')[0].click();
     }, 16000);
-   $('#Tour').removeClass('play').addClass('ready');
 	$( ".type-bg" ).remove();
+   $('#Tour').removeClass('play').addClass('ready');
+	
 }
 
 
