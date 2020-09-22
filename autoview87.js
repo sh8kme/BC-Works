@@ -247,7 +247,7 @@ setTimeout(
   function() 
   {
 	if ($(window).width() < 768) { 
-		$('<h6 class="typer">').prependTo('.history.mb');
+		$('<h6 class="typer">').prependTo('.type-bg');
 	} else {
 $('<h6 class="typer">').appendTo('.mapboxgl-popup-content');
 	}
